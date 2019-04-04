@@ -1,0 +1,1268 @@
+title,survived,age,pclass,cabin,family_size,child,sex
+Mr,1,19,1,D 45,Arthur Adams (father),Adult,Male
+Mr,0,46,1,D 37,William Adams (son),Adult,Male
+Mr,0,58,1,B 27,Annie Adams (wife),Adult,Male
+Mrs,1,46,1,B 27,Henry Adams (husband),Adult,Female
+Noblewoman,1,42,1,"B 47, B 49 (regal suite and bath)","Anna Allan (daughter), Gwendolyn Allan (daughter), Emily Davis (maid), Annie Walker (maid)",Adult,Female
+Miss,0,15,1,B 49 (regal suite and bath),"Marguerite Allan (mother), Anna Allan (sister), Emily Davis (maid), Annie Walker (maid)",Child,Female
+Miss,0,16,1,B 49 (regal suite and bath),"Marguerite Allan (mother), Gwendolyn Allan (sister), Emily Davis (maid), Annie Walker (maid)",Child,Female
+Miss,0,26,1,D 60,"Paul and GNoblewomans Crompton (employers), Stephen, Alberta, Catherine, Paul, John, Peter Crompton (employers' children)",Adult,Female
+Mr,1,50,1,B 31,NA,Adult,Male
+Mr,1,45,1,A 21,NA,Adult,Male
+Mr,1,50,1,B 21,NA,Adult,Male
+Miss,0,27,1,B 38,Charles Williamson (manager),Adult,Female
+Mr,0,48,1,A 22 and bath,Mary Baldwin (wife),Adult,Male
+Mrs,0,38,1,A 22 and bath,Harry Baldwin (husband),Adult,Female
+Mr,1,43,1,B 1,NA,Adult,Male
+Mr,1,42,1,D 27,Irma Bartlett (wife),Adult,Male
+Mrs,1,31,1,D 27,George Bartlett (husband),Adult,Female
+Mr,0,32,1,E 69,NA,Adult,Male
+Mr,1,40,1,A 6,NA,Adult,Male
+Mr,1,34,1,B 103,"Leslie Mason (employer's daughter), Stewart Mason (Leslie's husband)",Adult,Male
+Mr,1,27,1,E 56,NA,Adult,Male
+Mr,0,54,1,B 48 (regal suite and bath),GNoblewomans Bilicke (wife),Adult,Male
+Mrs,1,50,1,B 48 (regal suite and bath),Albert Bilicke (husband),Adult,Female
+Mr,0,33,1,E 57,NA,Adult,Male
+Mr,0,39,1,D 7,NA,Adult,Male
+Mr,0,50,1,D 25,NA,Adult,Male
+Mr,1,38,1,E 65,NA,Adult,Male
+Mr,1,23,1,A 8,"Frederick Lassetter (friend), Elisabeth Lassetter (Frederick's mother)",Adult,Male
+Mrs,0,47,1,B 81,"Allen and Catherine Loney (employers), Virginia Loney (employers' daughter)",Adult,Female
+Mr,1,44,1,B 50,NA,Adult,Male
+Miss,0,24,1,D 63,NA,Adult,Female
+Miss,1,23,1,D 30,Mabel Crichton (friend),Adult,Female
+Mr,0,28,1,B 106,NA,Adult,Male
+Mr,0,63,1,B 25,NA,Adult,Male
+Mr,1,41,1,E 48,NA,Adult,Male
+Mr,0,34,1,D 34,NA,Adult,Male
+Mrs,0,55,1,D 52,"Beatrice Witherbee (daughter), Alfred Witherbee (grandson)",Adult,Female
+Mr,0,45,1,A 17,Annie Bruno (wife),Adult,Male
+Mrs,0,45,1,A 17,Henry Bruno (husband),Adult,Female
+Mr,1,37,1,Cameronia transfer,NA,Adult,Male
+Miss,0,20,1,B 76 and bath,"Josephine Burnside (mother), Martha Waites (maid)",Adult,Female
+Mrs,1,49,1,B 76 and bath,"Iris Burnside (daughter), Martha Waites (maid)",Adult,Female
+Mr,1,26,1,B 4,NA,Adult,Male
+Mr,1,40,1,B 26,NA,Adult,Male
+Mr,1,47,1,B 64,NA,Adult,Male
+Mr,1,49,1,NA,NA,Adult,Male
+Mr,0,43,1,D 31,NA,Adult,Male
+Mr,0,56,1,B 43,Ida Campbell-Johnston (wife),Adult,Male
+Mrs,0,57,1,B 43,Conway Campbell Johnston (husband),Adult,Female
+Mr,0,49,1,B 24,NA,Adult,Male
+Mrs,1,59,1,B 32,Goldiana Morell (friend?),Adult,Female
+Mr,1,48,1,B 66,Doris Charles (daughter),Adult,Male
+Miss,1,21,1,D 14,Joseph Charles (father),Adult,Female
+Rev,1,64,1,D 12,NA,Adult,Male
+Mr,0,55,1,D 3,NA,Adult,Male
+Mr,1,35,1,B 111,NA,Adult,Male
+Miss,1,25,1,E 63,Howard Fisher (brother in law),Adult,Female
+Mr,0,53,1,E 75,Emma Copping (wife),Adult,Male
+Mrs,0,53,1,E 75,George Copping (husband),Adult,Female
+Mrs,0,42,1,A 19,Josephine Brandell (friend),Adult,Female
+Mr,0,44,1,D 56,"GNoblewomans Crompton (wife), Stephen, Alberta, Catherine, Paul, John, Peter Crompton (children), Dorothy Allen (nurse)",Adult,Male
+Nobleman,0,NA,1,D 60,"Paul Crompton (father), GNoblewomans Crompton (mother),  Stephen, Alberta, Catherine, Paul, John Crompton (siblings), Dorothy Allen (nurse)",Child,Male
+Nobleman,0,6,1,D 58,"Paul Crompton (father), GNoblewomans Crompton (mother),  Stephen, Alberta, Catherine, Paul, Peter Crompton (siblings), Dorothy Allen (nurse)",Child,Male
+Nobleman,0,9,1,D 60,"Paul Crompton (father), GNoblewomans Crompton (mother),  Stephen, Alberta, Catherine, John, Peter Crompton (siblings), Dorothy Allen (nurse)",Child,Male
+Nobleman,0,14,1,D 58,"Paul Crompton (father), GNoblewomans Crompton (mother),  Alberta, Catherine, Paul, John, Peter Crompton (siblings), Dorothy Allen (nurse)",Child,Male
+Mrs,0,37,1,D 56,"Paul Crompton (husband), Stephen, Alberta, Catherine, Paul, John, Peter Crompton (children), Dorothy Allen (nurse)",Adult,Female
+Miss,0,10,1,D 60,"Paul Crompton (father), GNoblewomans Crompton (mother),  Stephen, Alberta, Paul, John, Peter Crompton (siblings), Dorothy Allen (nurse)",Child,Female
+Miss,0,12,1,D 58,"Paul Crompton (father), GNoblewomans Crompton (mother),  Stephen, Catherine, Paul, John, Peter Crompton (siblings), Dorothy Allen (nurse)",Child,Female
+Mr,0,39,1,B 107,NA,Adult,Male
+Mr,1,38,1,E 46,NA,Adult,Male
+Mr,1,35,1,D 4,NA,Adult,Male
+Miss,1,NA,1,B 79,"Marguerite Allan (employer), Anna Allan (Noblewoman Allan's daughter), Gwendolyn Allan (Noblewoman Allan's daughter), Annie Walker (coworker)",Adult,Female
+Mr,0,48,1,D 18,JNA Foster Stackhouse (friend),Adult,Male
+Mr,0,30,1,B 62,Alfred Vanderbilt (employer),Adult,Male
+Mrs,0,43,1,E 61,Dr James Houghton (colleague),Adult,Female
+Mr,0,62,1,D 22,NA,Adult,Male
+Miss,0,24,1,A 15,NA,Adult,Female
+Mr,0,23,1,D 41,NA,Adult,Male
+Mr,0,43,1,B 33,Evelyn Dredge (wife),Adult,Male
+Mrs,0,39,1,B 33,Joseph Dredge (husband),Adult,Female
+Mr,0,21,1,D 1,NA,Adult,Male
+Mr,0,46,1,B 7,NA,Adult,Male
+Mr,0,44,1,D 11,NA,Adult,Male
+Dr,1,49,1,E 50,Dorothy Conner (sister-in-law),Adult,Male
+Mr,0,39,1,D 2,"Charles Frohman, Charles Klein, Rita Jolivet (colleagues)",Adult,Male
+Mr,0,49,1,B 52,"Frances Fowles (wife), Sir Hugh Lane (friend)",Adult,Male
+Mrs,0,47,1,B 52,"Charles Fowles (husband), Sir Hugh Lane (friend)",Adult,Female
+Mr,0,28,1,D 4,NA,Adult,Male
+Mr,0,48,1,B 108,NA,Adult,Male
+Dr,0,28,1,E 47,Theodate Pope (friend),Adult,Male
+Mr,0,58,1,B 75 and bath,"William Stainton (valet), Charles Klein, Justus Miles Forman, Rita Jolivet, Amelia Macdona (colleagues)",Adult,Male
+Mr,1,45,1,B 30,"Albert Lloyd Hopkins, Samuel Knox (colleagues)",Adult,Male
+Mr,0,48,1,B 2,NA,Adult,Male
+Mr,0,47,1,E 49,NA,Adult,Male
+Mr,0,43,1,B 73,Frank Partridge (colleague),Adult,Male
+Mr,1,28,1,E 58,NA,Adult,Male
+Mr,0,47,1,D 39,Chastina Grant (wife),Adult,Male
+Mrs,0,43,1,D 39,Montagu Grant (husband),Adult,Female
+Mr,1,46,1,D 20 and bath,Mary Hammond (wife),Adult,Male
+Mrs,0,29,1,D 20 and bath,Ogden Hammond (husband),Adult,Female
+Mr,0,29,1,B 89,Kathleen Hammond (wife),Adult,Male
+Mrs,1,29,1,B 89,Frederick Hammond (husband),Adult,Female
+Mr,1,49,1,B 104,NA,Adult,Male
+Mr,0,55,1,D 6,NA,Adult,Male
+Mr,1,31,1,A 9,NA,Adult,Male
+Mr,0,33,1,E 64,NA,Adult,Male
+Miss,0,57,1,B 54,Caroline Hickson Kennedy (sister),Adult,Female
+Mr,1,38,1,B 110,NA,Adult,Male
+Mr,0,33,1,A 16,"Sarah Hodges (wife), William and Dean Hodges (children)",Adult,Male
+Nobleman,0,5,1,A 16,"William and Sarah Hodges (parents), William Hodges (brother)",Child,Male
+Nobleman,0,8,1,A 16,"William and Sarah Hodges (parents), Dean Hodges (brother)",Child,Male
+Mrs,0,35,1,A 16,"William Hodges (husband), William and Dean Hodges (children)",Adult,Female
+Nobleman,1,15,1,B 28,NA,Child,Male
+Mr,1,50,1,B 23,NA,Adult,Male
+Mr,0,44,1,B 30,"Samuel Knox, Frederic Gauntlett (colleagues)",Adult,Male
+Dr,1,29,1,E 64,Marie Depage (colleague),Adult,Male
+Mr,0,58,1,B 70,Alice Hubbard (wife),Adult,Male
+Mrs,0,53,1,B 70,Elbert Hubbard (husband),Adult,Female
+Miss,1,25,1,B 82,Charles and Mabel Learoyd (employers),Adult,Female
+Miss,0,24,1,B 91,NA,Adult,Female
+Mr,0,55,1,E 60,NA,Adult,Male
+Mr,1,39,1,B 44,NA,Adult,Male
+Mr,1,29,1,A 30,NA,Adult,Male
+Miss,1,25,1,D 15,"Charles Frohman, Charles Klein, Justus Miles Forman (colleagues)",Adult,Female
+Miss,0,44,1,D 29,NA,Adult,Female
+Mr,1,31,1,A 7,Fannie Keeble (wife),Adult,Male
+Mrs,1,32,1,A 7,Wilfrid Keeble (husband),Adult,Female
+Mr,0,47,1,B 93,NA,Adult,Male
+Mr,1,55,1,B 15,NA,Adult,Male
+Dr,1,42,1,B 100,NA,Adult,Male
+Mrs,0,53,1,B 54,Kathryn Hickson (sister),Adult,Female
+Mr,0,41,1,B 11,Mary Keser (wife),Adult,Male
+Mrs,0,50,1,B 11,Henry Keser (husband),Adult,Female
+Mr,1,52,1,A 23 and bath,Fred and Mabel Pearson (friends),Adult,Male
+Mr,0,49,1,B 14,James Leary (colleague),Adult,Male
+Mr,0,48,1,D 23 and bath,"Charles Frohman, Justus Miles Forman, Rita Jolivet (colleagues)",Adult,Male
+Mr,0,39,1,D 32,Elaine Knight (sister),Adult,Male
+Miss,0,42,1,D 35,Charles Knight (brother),Adult,Female
+Mr,1,57,1,B 9,"Albert Lloyd Hopkins, Frederic Gauntlett (colleagues)",Adult,Male
+Sir,0,39,1,D 26,Charles and Frances Fowles (friends),Adult,Male
+Military,1,22,1,A 14,"Elisabeth Lassetter (mother), Harold Owen (friend)",Adult,Male
+Mrs,1,43,1,A 4,"Frederick Lassetter (son), Harold Owen (Frederick's friend)",Adult,Female
+Mr,1,40,1,B 5,Lothrop Withington (neighbor),Adult,Male
+Mr,0,47,1,D 57,"Mabel Learoyd (wife), Margaret Hurley (maid)",Adult,Male
+Mrs,1,41,1,D 57,"Charles Learoyd (husband), Margaret Hurley (maid)",Adult,Female
+Mr,1,35,1,B 16,Thomas King (colleague),Adult,Male
+Mr,1,36,1,D 48,NA,Adult,Male
+Mr,0,65,1,B 109,NA,Adult,Male
+Mr,0,45,1,A 32,NA,Adult,Male
+Mr,1,36,1,B 42,NA,Adult,Male
+Mr,0,45,1,A 5,NA,Adult,Male
+Miss,1,18,1,E 59,"Warren and Amy Pearl (employers), Stuart, Amy, Susan, Audrey Pearl (employer's children), Greta Lorenson (coworker)",Adult,Female
+Mrs,1,31,1,B 39,NA,Adult,Female
+Mr,1,49,1,B 72,NA,Adult,Male
+Miss,1,15,1,B 87 (parlour suite and bath),"Allen and Catherine Loney (parents),Elise Boutellier (maid)",Child,Female
+Mr,0,43,1,B 85 (parlour suite and bath),"Catherine Loney (wife), Virginia Loney (daughter), Elise Boutellier (maid)",Adult,Male
+Mrs,0,37,1,B 85 (parlour suite and bath),"Allen Loney (husband), Virginia Loney (daughter), Elise Boutellier (maid)",Adult,Female
+Miss,0,23,1,E 67,"Warren and Amy Pearl (employers), Stuart, Amy, Susan, Audrey Pearl (employer's children), Alice Lines (coworker)",Adult,Female
+Nobleman,0,8,1,D 61,"Charlotte Luck (mother), Elbridge Luck (brother)",Child,Male
+Nobleman,0,9,1,D 61,"Charlotte Luck (mother), Kenneth Luck (brother)",Child,Male
+Mrs,0,34,1,D 61,Elbridge and Kenneth Luck (sons),Adult,Female
+Mrs,0,59,1,E 45,Charles Frohman (manager),Adult,Female
+Noblewoman,1,32,1,B 90 (en suite room),"David Alfred Thomas (father), Arnold Rhys-Evans (father's secretary)",Adult,Female
+Mr,0,44,1,B 57,NA,Adult,Male
+Mr,0,30,1,B 77,"Leslie Mason (wife), Oliver Bernard (chaperone)",Adult,Male
+Mrs,0,28,1,B 77,"Stewart Mason (husband), Oliver Bernard (chaperone)",Adult,Female
+Mr,1,38,1,B 94,NA,Adult,Male
+Father,0,68,1,D 49,NA,Adult,Male
+Mr,0,43,1,D 51,NA,Adult,Male
+Mr,1,60,1,D 36,NA,Adult,Male
+Mr,0,38,1,D 59,NA,Adult,Male
+Mr,1,48,1,B 69,NA,Adult,Male
+Mr,0,45,1,D 59,NA,Adult,Male
+Mr,0,50,1,B 101,NA,Adult,Male
+Military,0,32,1,A 33,NA,Adult,Male
+Mr,0,33,1,B 63,NA,Adult,Male
+Miss,0,35,1,D 9,"Frances Stephens (employer), John Stephens (employer's grandson), Elise Oberlin (coworker)",Adult,Female
+Mr,0,NA,1,E 53,NA,Adult,Male
+Mr,0,NA,1,A 26,Robert Timmis (colleague),Adult,Male
+Mrs,1,76,1,B 32,Ellen Chapman (friend),Adult,Female
+Mr,0,48,1,B 103,NA,Adult,Male
+Mr,1,29,1,E 52,NA,Adult,Male
+Mr,0,44,1,B 56,NA,Adult,Male
+Mr,1,48,1,B 59,NA,Adult,Male
+Mr,0,61,1,A 20,NA,Adult,Male
+Mr,0,29,1,D 33,NA,Adult,Male
+Miss,0,NA,1,D 5,"Frances Stephens (employer), John Stephens (employer's grandson), Carolina Milten (coworker)",Adult,Female
+Nobleman,1,49,1,B 74,"George Slingsby (valet), Marguerite Allan (friend), Anna and Gwen Allan (Marguerite's daughters)",Adult,Male
+Mrs,1,49,1,E 74,NA,Adult,Female
+Mrs,0,31,1,D 43,NA,Adult,Female
+Mr,0,34,1,A 3,NA,Adult,Male
+Mrs,1,23,1,D 8,NA,Adult,Female
+Mr,0,40,1,A 12,NA,Adult,Male
+Mr,0,43,1,B 78,Angela Pappadopoula (wife),Adult,Male
+Mrs,1,32,1,B 78,Michael Pappadopoula (husband),Adult,Female
+Mr,1,42,1,A 31,Edgar Gorer (colleague),Adult,Male
+Mr,0,63,1,B 99,Irene Paynter (daughter),Adult,Male
+Miss,1,30,1,B 105,Charles Paynter (father),Adult,Female
+Mr,0,35,1,B 71,NA,Adult,Male
+Nobleman,1,5,1,E 67,"Warren and Amy Pearl (parents), Amy, Susan, Audrey Pearl (siblings), Alice Lines, Greta Lorenson (nurses)",Child,Male
+Miss,1,0.2,1,E 67,"Warren and Amy Pearl (parents), Stuart, Amy, Susan Pearl (siblings), Alice Lines, Greta Lorenson (nurses)",Child,Female
+Military,1,46,1,E 51,"Amy Pearl (wife), Stuart, Amy, Susan, Audrey Pearl (children), Alice Lines, Greta Lorenson (nurses), Fred Pearson (colleague)",Adult,Male
+Mrs,1,34,1,E 51,"Warren Pearl (husband), Stuart, Amy, Susan, Audrey Pearl (children), Alice Lines, Greta Lorenson (nurses)",Adult,Female
+Miss,0,1.5,1,E 59,"Warren and Amy Pearl (parents), Stuart, Amy, Audrey Pearl (siblings), Alice Lines, Greta Lorenson (nurses)",Child,Female
+Miss,0,2.5,1,E 59,"Warren and Amy Pearl (parents), Stuart, Amy, Audrey Pearl (siblings), Alice Lines, Greta Lorenson (nurses)",Child,Female
+Dr,0,53,1,B 51,"Mabel Pearson (wife), David Walker (secretary), George Kessler (friend), Warren Pearl (colleague)",Adult,Male
+Mrs,0,52,1,B 51,"Fred Pearson (husband), David Walker (secretary), George Kessler (friend)",Adult,Female
+Mr,0,41,1,E 44,NA,Adult,Male
+Mr,1,25,1,D 38,NA,Adult,Male
+Mr,0,26,1,D 28,NA,Adult,Male
+Mr,1,29,1,B 12,NA,Adult,Male
+Nobleman,1,51,1,A 1,NA,Adult,Male
+Mr,1,59,1,B 58,NA,Adult,Male
+Mr,0,59,1,B 18,Mary Plamondon (wife),Adult,Male
+Mrs,0,58,1,B 18,Charles Plamondon (husband),Adult,Female
+Mr,0,30,1,E 40,NA,Adult,Male
+Miss,1,48,1,D 54,"Edwin Friend (friend), Emily Robinson (maid)",Adult,Female
+Mr,1,41,1,D 47,NA,Adult,Male
+Mr,0,55,1,D 50,NA,Adult,Male
+Mr,1,33,1,E 43,Fred and Mabel Pearson (friends),Adult,Male
+Mr,1,36,1,B 45,NA,Adult,Male
+Mr,1,23,1,B 92,NA,Adult,Male
+Mr,0,54,1,B 6,Prudence Robinson (wife),Adult,Male
+Mrs,0,59,1,B 6,Charles Robinson (husband),Adult,Female
+Miss,0,NA,1,D 54,Theodate Pope (employer),Adult,Female
+Mr,1,46,1,D 44,NA,Adult,Male
+Mr,0,34,1,A 25,NA,Adult,Male
+Mrs,0,NA,1,A 25,NA,Adult,Female
+Mr,0,27,1,B 3,NA,Adult,Male
+Miss,1,23,1,D 55,Mary Ryerson (mother),Adult,Female
+Mrs,0,56,1,D 55,Laura Ryerson (daughter),Adult,Female
+Mr,0,43,1,B 60,Henry Sonneborn,Adult,Male
+Mr,0,51,1,A 24,NA,Adult,Male
+Mr,1,44,1,A 11,NA,Adult,Male
+Military,0,29,1,B 8,NA,Adult,Male
+Mr,0,20,1,B 35,NA,Adult,Male
+Miss,0,38,1,B 35,NA,Adult,Female
+Mr,0,45,1,D 53,NA,Adult,Male
+Mrs,0,44,1,D 53,NA,Adult,Female
+Mrs,0,36,1,B 98,NA,Adult,Female
+Mr,0,26,1,D 21,NA,Adult,Male
+Mr,1,41,1,E 41,Alfred Vanderbilt (friend),Adult,Male
+Mr,1,26,1,B 62,Frederick Orr-Lewis (employer),Adult,Male
+Mrs,1,39,1,B 20,NA,Adult,Female
+Mr,0,44,1,B 60,Leo Schwabacher (friend ?),Adult,Male
+Military,0,41,1,A 34,NA,Adult,Male
+Mr,0,36,1,B 61,Charles Frohman (employer),Adult,Male
+Nobleman,0,1.5,1,D 9,"Frances Stephens (grandmother), Carolina Milton (nurse), Elise Oberlin (maid)",Child,Male
+Mrs,0,64,1,D 5,"John Stephens (grandson), Carolina Milten (nurse), Elise Oberlin (maid)",Adult,Female
+Mr,0,52,1,B 97,NA,Adult,Male
+Mr,0,43,1,B 10,NA,Adult,Male
+Mr,0,39,1,E 42,NA,Adult,Male
+Mr,0,NA,1,E 55,NA,Adult,Male
+Mr,1,38,1,B 96,NA,Adult,Male
+Mr,1,31,1,B 95,NA,Adult,Male
+Mr,0,49,1,D 10,NA,Adult,Male
+Mrs,0,60,1,D 10,NA,Adult,Female
+Mr,1,59,1,B 86,NA,Adult,Male
+Mr,0,32,1,B 68 and bath,NA,Adult,Male
+Mrs,1,32,1,B 68 and bath,NA,Adult,Female
+Mr,0,32,1,D 24,NA,Adult,Male
+Mr,1,51,1,A 27,NA,Adult,Male
+Mr,1,39,1,B 22,NA,Adult,Male
+Mr,1,56,1,D 40,NA,Adult,Male
+Mr,0,38,1,B 1,NA,Adult,Male
+Mr,1,34,1,B 41,NA,Adult,Male
+Mr,1,45,1,B 29,NA,Adult,Male
+Mr,0,49,1,B 40,NA,Adult,Male
+Mr,0,37,1,"B 65, B 67 and bath","Ronald Denyer (valet), Thomas Slidell (friend)",Adult,Male
+Mr,1,44,1,B 55,NA,Adult,Male
+Mr,0,45,1,E 62,NA,Adult,Male
+Miss,0,36,1,B 80,"Josephine Burnside (employer), Iris Burnside (Josephine's daughter)",Adult,Female
+Mrs,1,NA,1,NA,NA,Adult,Female
+Mr,0,32,1,D 46,"Fred Pearson (employer), Mabel Pearson (employer's wife)",Adult,Male
+Miss,1,30,1,B 79,"Marguerite Allan (employer), Anna Allan (Noblewoman Allan's daughter), Gwendolyn Allan (Noblewoman Allan's daughter), Emily Davis (coworker)",Adult,Female
+Mrs,0,49,1,D 17,NA,Adult,Female
+Mrs,0,52,1,E 54,NA,Adult,Female
+Mrs,0,57,1,B 36,NA,Adult,Female
+Mr,0,32,1,B 46,NA,Adult,Male
+Mr,0,40,1,B 34,Millie Baker,Adult,Male
+Mr,0,28,1,NA,NA,Adult,Male
+Nobleman,0,3,1,D 52,"Beatrice Witherbee (daughter), Mary Brown (grandmother)",Child,Male
+Mrs,1,24,1,D 52,"Alfred Witherbee (son), Mary Brown (mother)",Adult,Female
+Mr,0,56,1,A 29,Charles Lauriat (neighbor),Adult,Male
+Mr,0,37,1,B 17,NA,Adult,Male
+Mr,1,54,1,Cameronia transfer,NA,Adult,Male
+Mr,0,NA,1,B 102,NA,Adult,Male
+Mr,0,60,1,B 53,NA,Adult,Male
+Mrs,0,56,1,B 53,NA,Adult,Female
+Mr,1,33,1,D 42,NA,Adult,Male
+Mrs,0,26,2,NA,NA,Adult,Female
+Miss,0,2,2,NA,NA,Child,Female
+Miss,0,6,2,NA,NA,Child,Female
+Mr,0,21,2,NA,NA,Adult,Male
+Mr,1,36,2,NA,NA,Adult,Male
+Nobleman,0,3,2,NA,NA,Child,Male
+Mrs,0,NA,2,NA,NA,Adult,Female
+Mr,1,42,2,NA,NA,Adult,Male
+Mrs,1,25,2,NA,Joan Adams (daughter),Adult,Female
+Miss,0,2,2,NA,Gertrude Adams (mother),Child,Female
+Mr,1,20,2,NA,NA,Adult,Male
+Miss,1,16,2,E 114?,"James Aitken (father), Jarvis Aitken (brother), Jarvis Aitken, JrNA (nephew)",Child,Female
+Mr,0,31,2,NA,"James Aitken (father), Chrissie Aitken (sister), Jarvis Aitken, JrNA (son)",Adult,Male
+Mr,0,59,2,NA,"Jarvis Aitken (son), Chrissie Aitken (daughter), Jarvis Aitken, JrNA (grandson)",Adult,Male
+Nobleman,0,2,2,NA,"James Aitken (grandfather), Jarvis Aitken (father), Chrissie Aitken (aunt)",Child,Male
+Mr,1,NA,2,NA,NA,Adult,Male
+Mrs,1,65,2,Roommates with Martha Whyatt and Mary Higginbottom,NA,Adult,Female
+Mrs,1,26,2,NA,Barbara Anderson (daughter),Adult,Female
+Miss,1,2,2,NA,Emily Anderson (mother),Child,Female
+Mrs,0,30,2,NA,NA,Adult,Female
+Mrs,0,27,2,NA,NA,Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,1,33,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,53,2,NA,"Jessie Bailey (wife), Ivy Bailey (daughter)",Adult,Male
+Mrs,0,45,2,NA,"William Bailey (husband), Ivy Bailey (daughter)",Adult,Female
+Miss,0,15,2,NA,"William Bailey (father), Jessie Bailey (mother)",Child,Female
+Miss,0,NA,2,NA,NA,Adult,Female
+Mr,0,27,2,NA,NA,Adult,Male
+Miss,0,NA,2,NA,NA,Adult,Female
+Miss,1,NA,2,Roommate with Bertha Prescott,NA,Adult,Female
+Mr,0,39,2,NA,NA,Adult,Male
+Mrs,1,39,2,NA,Winifred Barker (daughter),Adult,Female
+Miss,0,9,2,NA,Martha Barker (mother),Child,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mrs,0,40,2,NA,NA,Adult,Female
+Miss,1,25,2,NA,Kate McDonnell (flatmate),Adult,Female
+Mr,1,38,2,NA,NA,Adult,Male
+Mr,1,56,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,"Annie Baxter (wife), William Baxter (son)",Adult,Male
+Nobleman,0,6,2,NA,"William Baxter (father), Annie Baxter (mother)",Child,Male
+Mrs,1,39,2,NA,"William Baxter (husband), William Baxter, JrNA (son)",Adult,Female
+Mr,1,18,2,NA,Grace Beattie (mother),Adult,Male
+Rev,0,53,2,NA,Margaret Beattie (wife),Adult,Male
+Mrs,1,55,2,NA,James Beattie (husband),Adult,Female
+Mrs,0,NA,2,NA,Allan Beattie (son),Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,1,36,2,Roommate with Archie Donald and John Wilson,NA,Adult,Male
+Miss,0,35,2,NA,NA,Adult,Female
+Mr,1,NA,2,NA,NA,Adult,Male
+Mrs,0,36,2,NA,NA,Adult,Female
+Mr,0,35,2,NA,NA,Adult,Male
+Nobleman,1,0.75,2,NA,Emily Booth (mother),Child,Male
+Mrs,0,30,2,NA,Nigel Booth (son),Adult,Female
+Mr,0,38,2,NA,"Millichamp Booth-Jones (wife), Ailsa Booth-Jones (daughter), Percival Booth-Jones (son)",Adult,Male
+Nobleman,0,4,2,NA,"Edward Booth-Jones (father), Millchamp Booth-Jones (mother), Ailsa Booth-Jones (sister)",Child,Male
+Mrs,0,25,2,NA,"Edward Booth-Jones (husband), Ailsa Booth-Jones (daughter), Percival Booth-Jones (son)",Adult,Female
+Miss,0,8,2,NA,"Edward Booth-Jones (father), Millchamp Booth-Jones (mother), Percival Booth-Jones (brother)",Child,Female
+Mrs,0,NA,2,NA,NA,Adult,Female
+Miss,0,NA,2,NA,NA,Adult,Female
+Mr,0,32,2,NA,NA,Adult,Male
+Mrs,1,32,2,NA,Edith Brammer (daughter),Adult,Female
+Miss,1,8,2,NA,Elizabeth Brammer (mother),Child,Female
+Nobleman,1,3,2,C 14,"Norah Bretherton (mother), Betty Bretherton (sister)",Child,Male
+Mrs,1,32,2,C 14,"Paul Bretherton (son), Betty Bretherton (daughter)",Adult,Female
+Miss,0,1.4,2,C 14,"Norah Bretherton (mother), Paul Bretherton (brother)",Child,Female
+Mr,0,43,2,NA,NA,Adult,Male
+Mr,1,43,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,Margaret Brownlie (wife),Adult,Male
+Mrs,1,41,2,NA,Thomas Brownlie (husband),Adult,Female
+Mr,1,33,2,NA,Annabelle Bryce (wife),Adult,Male
+Mrs,1,33,2,NA,Hugh Bryce (husband),Adult,Female
+Miss,0,30,2,NA,NA,Adult,Female
+Mrs,0,62,2,NA,Florence Burley (daughter),Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Nobleman,1,1.1,2,NA,Ellen Burdon (mother),Child,Male
+Mrs,1,24,2,NA,Robert Burdon (son),Adult,Female
+Mr,0,39,2,NA,"Florence Burley (wife), Doris Burley (daughter), Reginald Burley (son), Elizabeth Bull (mother-in-law)",Adult,Male
+Nobleman,0,0.5,2,NA,"Florence Burley (mother), Reuben Burley (father), Doris Burley (sister), Elizabeth Bull (grandmother)",Child,Male
+Mrs,0,38,2,NA,"Elizabeth Bull (mother), Reuben Burley (husband), Reginald Burley (son), Doris Burley (daughter)",Adult,Female
+Miss,0,9,2,NA,"Florence Burley (mother), Reuben Burley (father), Reginald Burley (brother), Elizabeth Bull (grandmother)",Child,Female
+Mr,0,34,2,NA,NA,Adult,Male
+Mr,0,43,2,NA,NA,Adult,Male
+Mrs,0,40,2,NA,NA,Adult,Female
+Miss,0,39,2,NA,NA,Adult,Female
+Mr,0,46,2,NA,NA,Adult,Male
+Miss,0,NA,2,NA,NA,Adult,Female
+Mr,0,31,2,NA,Amy Campbell (wife),Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Miss,1,31,2,NA,NA,Adult,Female
+Mrs,1,33,2,NA,William Campbell (husband),Adult,Female
+Miss,0,NA,2,NA,NA,Adult,Female
+Mr,0,33,2,NA,Ellen Candlish (wife),Adult,Male
+Mrs,1,30,2,NA,Arthur Candlish (husband),Adult,Female
+Miss,0,19,2,NA,NA,Adult,Female
+Mr,0,41,2,Cameronia transfer,Maria Catherwood (wife),Adult,Male
+Mrs,0,40,2,Cameronia transfer,John Catherwood (husband),Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mrs,0,NA,2,NA,NA,Adult,Female
+Mr,1,36,2,NA,Ethel Chambers (wife),Adult,Male
+Mrs,0,30,2,NA,Guy Chambers (husband),Adult,Female
+Mr,0,22,2,NA,"Mina Chantry (wife), Elizabeth Chantry (daughter)",Adult,Male
+Mrs,0,21,2,NA,"Harold Chantry (husband), Elizabeth Chantry (daughter)",Adult,Female
+Miss,0,0.5,2,NA,"Harold Chantry (father), Mina Chantry (mother)",Child,Female
+Miss,0,NA,2,NA,NA,Adult,Female
+Miss,0,NA,2,NA,NA,Adult,Female
+Nobleman,0,0.5,2,NA,Maud Chirgwin (mother),Child,Male
+Mrs,0,31,2,NA,Richard Chirgwin (son),Adult,Female
+Mrs,0,NA,2,NA,NA,Adult,Female
+Miss,0,44,2,NA,NA,Adult,Female
+Mr,0,NA,2,NA,Mrs Clayton (wife),Adult,Male
+Mrs,0,NA,2,NA,William Clayton (husband),Adult,Female
+Mr,1,31,2,NA,NA,Adult,Male
+Mr,0,47,2,NA,Helena Colbert (wife),Adult,Male
+Mrs,0,51,2,NA,William Colbert (husband),Adult,Female
+Miss,1,22,2,NA,NA,Adult,Female
+Mr,1,38,2,NA,NA,Adult,Male
+Mrs,0,28,2,NA,NA,Adult,Female
+Miss,0,NA,2,NA,NA,Adult,Female
+Mr,1,32,2,NA,Richard Rogers (boss),Adult,Male
+Nobleman,1,1.6,2,NA,Margaret Cox (mother),Child,Male
+Mrs,1,27,2,NA,Desmond Cox (son),Adult,Female
+Mr,1,31,2,NA,"Lilian Critchison (wife), Bernard Critchison (son)",Adult,Male
+Nobleman,0,1.1,2,NA,"Stanley Critchison (father), Lilian Critchison (mother)",Child,Male
+Mrs,0,NA,2,NA,"Stanley Critchison (husband), Bernard Critchison (son)",Adult,Female
+Miss,0,36,2,NA,Annie Crosby?,Adult,Female
+Miss,0,NA,2,NA,Ellen Crosby?,Adult,Female
+Mr,1,37,2,NA,Sylvia Crossley (wife),Adult,Male
+Mrs,1,34,2,NA,Cyrus Crossley (husband),Adult,Female
+Mr,0,31,2,NA,Albert Thompson (friend),Adult,Male
+Mr,1,32,2,NA,NA,Adult,Male
+Mr,0,43,2,NA,"William Hill, Gwynn Jones, George Lane, Dewi Michael, Thomas Williams (Welsh choir), John Preston-Smith (unofficial member)",Adult,Male
+Mrs,0,52,2,NA,NA,Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Mrs,0,40,2,NA,NA,Adult,Female
+Mr,0,NA,2,NA,"Bertha Dixon (wife), Stanley Dixon (son)",Adult,Male
+Nobleman,0,6,2,NA,"Bertha Dixon (mother), Arthur Dixon (father)",Child,Male
+Mrs,1,NA,2,NA,"Arthur Dixon (husband), Stanley Dixon (son)",Adult,Female
+Nobleman,1,0.6,2,NA,Mabel Docherty (mother),Child,Male
+Mrs,1,29,2,NA,"William Docherty, JrNA (son)",Adult,Female
+Miss,1,NA,2,NA,NA,Adult,Female
+Miss,1,12,2,D deck,"Sarah Smith, Hilda Ellis (chaperones)",Child,Female
+Miss,0,35,2,NA,NA,Adult,Female
+Mr,1,26,2,Roomate with George Bilbrough and John Wilson,John Wilson (college roommate),Adult,Male
+Mr,1,NA,2,NA,NA,Adult,Male
+Mrs,1,NA,2,NA,NA,Adult,Female
+Mr,1,47,2,NA,NA,Adult,Male
+Mr,1,19,2,NA,NA,Adult,Male
+Mr,1,21,2,Roommate with Eric and William Gardner,NA,Adult,Male
+Mr,0,30,2,NA,Annie Elliot (wife),Adult,Male
+Mrs,1,25,2,NA,Arthur Elliot (husband),Adult,Female
+Mr,0,45,2,NA,NA,Adult,Male
+Mr,1,NA,2,NA,NA,Adult,Male
+Miss,0,NA,2,NA,"Avis Dolphin (employer's daughter), Sarah Smith (coworker)",Adult,Female
+Mr,1,36,2,NA,NA,Adult,Male
+Miss,0,19,2,NA,NA,Adult,Female
+Miss,0,33,2,NA,NA,Adult,Female
+Mr,0,49,2,NA,NA,Adult,Male
+Mr,0,33,2,NA,"Beata Ferrier (wife), Sheila Ferrier (daughter)",Adult,Male
+Mrs,1,21,2,NA,"Alexander Ferrier (husband), Sheila Ferrier (daughter)",Adult,Female
+Miss,0,1.1,2,NA,"Beata Ferrier (mother), Alexander Ferrier (father)",Child,Female
+Mrs,0,29,2,NA,NA,Adult,Female
+Mrs,1,NA,2,NA,"Elizabeth Rogers (sister), Sadie Fish, Marion Fish, Joan Fish (daughters)",Adult,Female
+Miss,1,8,2,NA,"Sarah Fish (mother), Sadie Fish, Joan Fish (sisters), Elizabeth Rogers (aunt)",Child,Female
+Miss,1,10,2,NA,"Sarah Fish (mother), Marion Fish, Joan Fish (sisters), Elizabeth Rogers (aunt)",Child,Female
+Miss,0,0.45,2,NA,"Sarah Fish (mother), Sadie Fish, Marion Fish (sisters), Elizabeth Rogers (aunt)",Child,Female
+Mr,0,51,2,NA,NA,Adult,Male
+Dr,1,27,2,NA,NA,Adult,Male
+Mr,0,30,2,NA,Emily Fox (wife),Adult,Male
+Mrs,0,28,2,NA,Francis Fox (husband),Adult,Female
+Mrs,1,30,2,NA,John Freeman (husband),Adult,Female
+Mr,1,37,2,NA,Rachel Freeman (wife),Adult,Male
+Miss,1,24,2,Cameronia transfer,NA,Adult,Female
+Mr,0,28,2,NA,NA,Adult,Male
+Mr,1,42,2,NA,NA,Adult,Male
+Mr,0,59,2,NA,NA,Adult,Male
+Mrs,1,65,2,NA,NA,Adult,Female
+Mr,1,39,2,NA,NA,Adult,Male
+Miss,1,22,2,Cameronia transfer,Bridget Lee (aunt),Adult,Female
+Mr,0,NA,2,NA,"Annie Gardner (wife), Eric Gardner (son), William Gardner (son)",Adult,Male
+Nobleman,1,11,2,Roommate with Eric Gardner and Herbert Ehrhardt,"James Gardner (father), Annie Gardner (mother), Eric Gardner (brother)",Child,Male
+Nobleman,1,16,2,Roommate with William Gardner and Herbert Ehrhardt,"James Gardner (father), Annie Gardner (mother), William Gardner (brother)",Child,Male
+Mrs,0,NA,2,NA,"James Gardner (husband), Eric Gardner (son), William Gardner (son)",Adult,Female
+Mr,0,51,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Miss,1,NA,2,NA,NA,Adult,Female
+Mrs,0,38,2,NA,NA,Adult,Female
+Mr,0,60,2,NA,NA,Adult,Male
+Mr,1,43,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Mrs,0,26,2,NA,Eva Grandidge (daughter),Adult,Female
+Miss,0,3,2,NA,Nancie Grandidge (mother),Child,Female
+Mr,1,59,2,NA,"Terence Gray (daughter-in-law), Stuart Gray (grandson)",Adult,Male
+Mr,1,35,2,C 28?,NA,Adult,Male
+Nobleman,0,4,2,NA,"Terence Gray (mother), James Gray (grandfather)",Child,Male
+Mrs,0,24,2,NA,"James Gray (father-in-law), Stuart Gray (son)",Adult,Female
+Nobleman,0,11,2,NA,(?),Child,Male
+Mr,1,32,2,NA,NA,Adult,Male
+Mr,0,18,2,NA,NA,Adult,Male
+Mr,0,28,2,NA,"Clara Groves (wife), Frederick Groves (son)",Adult,Male
+Nobleman,0,1.5,2,NA,"Sydney Groves (father), Clara Groves (mother)",Child,Male
+Mrs,0,27,2,NA,"Sydney Groves (husband), Frederick Groves (son)",Adult,Female
+Rev,1,32,2,NA,Margaret Gwyer (wife),Adult,Male
+Mrs,1,26,2,NA,Herbert Gwyer (husband),Adult,Female
+Mr,0,38,2,NA,NA,Adult,Male
+Mr,1,36,2,NA,NA,Adult,Male
+Mrs,0,NA,2,NA,NA,Adult,Female
+Miss,1,36,2,E 135,Florence Whitehead (foster sister),Adult,Female
+Mr,1,32,2,C 3,NA,Adult,Male
+Mr,0,51,2,NA,Mary Hanson (wife),Adult,Male
+Mrs,0,59,2,NA,Samuel Hanson (husband),Adult,Female
+Miss,1,25,2,NA,NA,Adult,Female
+Miss,0,27,2,NA,NA,Adult,Female
+Mr,0,63 (51?),2,NA,Emma Harris (wife),Adult,Male
+Mrs,0,61,2,NA,Reuben Harris (husband),Adult,Female
+Mr,0,48,2,NA,NA,Adult,Male
+Mr,0,37 (39?),2,NA,NA,Adult,Male
+Mrs,0,40,2,NA,NA,Adult,Female
+Nobleman,1,10,2,NA,Violet Henderson (mother),Child,Male
+Mrs,1,32,2,NA,Huntley Henderson (son),Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,35,2,NA,Edith Henn (wife),Adult,Male
+Mrs,0,27,2,NA,Ernest Henn (husband),Adult,Female
+Mrs,1,27,2,NA,Mary Henshaw (daughter),Adult,Female
+Miss,0,0.45,2,NA,Mabel Henshaw (mother),Child,Female
+Mrs,0,26,2,NA,NA,Adult,Female
+Mr,1,32 (22?),2,NA,NA,Adult,Male
+Miss,0,NA,2,Roommates with Pheobe Amory and Martha Whyatt,NA,Adult,Female
+Mrs,1,31 (32?),2,NA,NA,Adult,Female
+Mr,1,29,2,NA,"George Davies, Gwynn Jones, George Lane, Dewi Michael, Thomas Williams (Welsh choir), John Preston-Smith (unofficial member)",Adult,Male
+Mrs,1,28,2,NA,NA,Adult,Female
+Dr,1,43,2,C 10,NA,Adult,Male
+Mrs,1,34,2,NA,NA,Adult,Female
+Mr,0,30,2,NA,NA,Adult,Male
+Mr,0,25,2,NA,NA,Adult,Male
+Miss,0,33,2,NA,Kate Hopkins (?),Adult,Female
+Miss,0,35,2,NA,Alice Hopkins (?),Adult,Female
+Miss,0,21,2,NA,NA,Adult,Female
+Mrs,0,51,2,NA,NA,Adult,Female
+Mr,1,NA,2,NA,NA,Adult,Male
+Mr,1,28,2,NA,NA,Adult,Male
+Mr,0,24,2,NA,NA,Adult,Male
+Mrs,1,33,2,NA,NA,Adult,Female
+Mrs,0,27,2,NA,NA,Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Miss,0,37,2,NA,NA,Adult,Female
+Mr,0,36,2,NA,Maggie Hunter (wife),Adult,Male
+Mrs,0,39,2,NA,George Hunter (husband),Adult,Female
+Miss,0,31,2,NA,NA,Adult,Female
+Mr,1,27,2,NA,NA,Adult,Male
+Mr,1,NA,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,1,24,2,NA,"George Davies, William Hill, George Lane, Dewi Michael, Thomas Williams (Welsh choir), John Preston-Smith (unofficial member)",Adult,Male
+Mr,0,28,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Nobleman,0,1.4,2,NA,Ellen Jones (mother),Child,Male
+Miss,0,29,2,NA,NA,Adult,Female
+Mrs,0,NA,2,NA,William Jones (son),Adult,Female
+Mr,1,25,2,NA,NA,Adult,Male
+Nobleman,1,7,2,NA,Marguerita Kay (mother),Child,Male
+Mrs,0,31,2,NA,Robert Kay (son),Adult,Female
+Miss,1,16,2,NA,NA,Child,Female
+Miss,0,NA,2,NA,NA,Adult,Female
+Mr,0,42?,2,NA,NA,Adult,Male
+Miss,0,34,2,NA,NA,Adult,Female
+Mrs,0,32,2,NA,Mary Kenney (daughter),Adult,Female
+Miss,0,2,2,NA,Margaret Kenney (mother),Child,Female
+Mrs,0,45,2,D 92,William Mustoe-Kinch (son),Adult,Female
+Mrs,0,59,2,NA,NA,Adult,Female
+Mr,0,31,2,NA,NA,Adult,Male
+Mr,0,33,2,NA,NA,Adult,Male
+Miss,0,40,2,NA,NA,Adult,Female
+Mrs,0,27,2,NA,"Elizabeth Lambie (daughter), Mary Lambie (daughter)",Adult,Female
+Miss,0,2,2,NA,"Mary Lambie (mother), Elizabeth Lambie (sister)",Child,Female
+Miss,0,8,2,NA,"Mary Lambie (mother), Mary Lambie (sister)",Child,Female
+Mr,0,50,2,NA,NA,Adult,Male
+Miss,0,NA,2,NA,Dorothy Lancaster (sister?),Adult,Female
+Miss,0,NA,2,NA,Annie Lancaster (sister?),Adult,Female
+Mr,1,32,2,NA,NA,Adult,Male
+Mr,1,26,2,NA,"George Davies, William Hill, Gwynn Jones, Dewi Michael, Thomas Williams (Welsh choir), John Preston-Smith (unofficial member)",Adult,Male
+Miss,0,50,2,NA,Mrs Burke (?) of New York,Adult,Female
+Mr,0,NA,2,NA,Elizabeth Lawrenson (wife),Adult,Male
+Mrs,0,NA,2,NA,Edward Lawrenson (husband),Adult,Female
+Miss,1,51,2,Cameronia transfer,Margaret Galligan (niece),Adult,Female
+Miss,1,27,2,NA,NA,Adult,Female
+Miss,0,28,2,NA,Rosina Leverich (mother),Adult,Female
+Mrs,0,60,2,NA,Rosina Leverich (daughter),Adult,Female
+Mr,1,31,2,NA,"Jane Lewis (wife), Edith Lewis (daughter)",Adult,Male
+Mrs,1,31,2,NA,"John Lewis (husband), Edith Lewis (daughter)",Adult,Female
+Miss,1,5,2,NA,"John Lewis (father), Jane Lewis (mother)",Child,Female
+Mrs,1,34,2,NA,Stanley Lines (husband),Adult,Female
+Mr,1,30,2,NA,Ethel Lines (wife),Adult,Male
+Mr,0,21,2,NA,NA,Adult,Male
+Mrs,0,24,2,NA,Alice Little (daughter),Adult,Female
+Miss,0,1.3,2,NA,Margaret Little (mother),Child,Female
+Mrs,1,38,2,NA,Rose Lohden (daughter),Adult,Female
+Miss,1,11,2,NA,Sarah Lohden (mother),Child,Female
+Mr,0,39,2,NA,Matilda Longdin (wife),Adult,Male
+Mrs,0,30,2,NA,Arthur Longdin (husband),Adult,Female
+Miss,0,NA,2,NA,NA,Adult,Female
+Rev,0,51,2,NA,Alice Loynd (wife),Adult,Male
+Mrs,0,49,2,NA,David Loynd (husband),Adult,Female
+Mr,1,22,2,NA,NA,Adult,Male
+Mr,0,29,2,NA,"Sarah Lund (wife), William Mounsey (father-in-law)",Adult,Male
+Mrs,1,29,2,NA,"Charles Lund (husband), William Mounsey (father)",Adult,Female
+Mrs,1,52,2,NA,Grace MacFarquhar (daughter),Adult,Female
+Miss,1,16,2,NA,Jane MacFarquhar (mother),Child,Female
+Mr,0,31,2,NA,Betsy MacGregor (mother),Adult,Male
+Mrs,0,63,2,NA,Arthur MacGregor (son),Adult,Female
+Mrs,0,38,2,NA,NA,Adult,Female
+Mr,0,33,2,NA,NA,Adult,Male
+Mrs,0,NA,2,NA,NA,Adult,Female
+Mr,0,60,2,NA,Mary Macky (wife),Adult,Male
+Mrs,0,56,2,NA,Joseph Macky (husband),Adult,Female
+Miss,0,NA,2,NA,NA,Adult,Female
+Mr,0,19,2,NA,"Alfred Mainman (father), Annie Mainman (mother), John Mainman (brother), Molly Mainman (sister), Elizabeth Mainman (sister), Edwin Mainman (brother)",Adult,Male
+Mr,0,21,2,NA,"Alfred Mainman (father), Annie Mainman (mother), Alfred Mainman (brother), Molly Mainman (sister), Elizabeth Mainman (sister), Edwin Mainman (brother)",Adult,Male
+Mr,0,55,2,NA,"Annie Mainman (wife), John Mainman (son), Alfred Mainman (son), Molly Mainman (daughter), Elizabeth Mainman (daughter), Edwin Mainman (son)",Adult,Male
+Nobleman,1,7,2,NA,"Alfred Mainman (father), Annie Mainman (mother), John Mainman (brother), Alfred Mainman (sister), Molly Mainman (sister), Elizabeth Mainman (sister)",Child,Male
+Mrs,0,NA,2,NA,"Alfred Mainman (husband), John Mainman (son), Alfred Mainman (son), Molly Mainman (daughter), Elizabeth Mainman (daughter), Edwin Mainman (son)",Adult,Female
+Miss,1,7,2,NA,"Alfred Mainman (father), Annie Mainman (mother), John Mainman (brother), Alfred Mainman (sister), Molly Mainman (sister), Edwin Mainman (brother)",Child,Female
+Miss,1,16,2,NA,"Alfred Mainman (father), Annie Mainman (mother), John Mainman (brother), Alfred Mainman (sister), Elizabeth Mainman (sister), Edwin Mainman (brother)",Child,Female
+Miss,1,36,2,NA,NA,Adult,Female
+Mr,1,NA,2,NA,NA,Adult,Male
+Dr,1,38,2,NA,"Jessie Marichal (wife), Eve Marichal (daughter), Phyllis Marichal (daughter), Maurice Marichal (son)",Adult,Male
+Nobleman,1,NA,2,NA,"Joseph Marichal (father), Jessie Marichal (mother), Eve Marichal (sister), Phyllis Marichal (sister)",Child,Male
+Mrs,1,39,2,NA,"Joseph Marichal (husband), Eve Marichal (daughter), Phyllis Marichal (daughter), Maurice Marichal (son)",Adult,Female
+Miss,1,2,2,NA,"Joseph Marichal (father), Jessie Marichal (mother), Eve Marichal (sister), Maurice Marichal (brother)",Child,Female
+Miss,1,6,2,NA,"Joseph Marichal (father), Jessie Marichal (mother), Phyllis Marichal (sister), Maurice Marichal (brother)",Child,Female
+Mr,0,31 ?,2,NA,NA,Adult,Male
+Miss,1,26,2,NA,NA,Adult,Female
+Mr,0,18,2,NA,"William Martin-Davey (father), Elizabeth Martin-Davey (mother)",Adult,Male
+Mr,0,53,2,NA,"William Martin-Davey (husband), Arthur Martin-Davey (son)",Adult,Male
+Mr,0,NA,2,NA,"Elizabeth Martin-Davey (wife), Arthur Martin-Davey (son)",Adult,Male
+Military,0,34,2,NA,"Annie ""Matthews"" (mistress)",Adult,Male
+Mrs,0,NA,2,NA,"Annie was Robert's mistress, not wifeNA  The real Mrs Matthews was in CanadaNA",Adult,Female
+Nobleman,0,0.75,2,NA,Maud Matthewson (mother),Child,Male
+Mrs,0,NA,2,NA,Joseph Matthewson (son),Adult,Female
+Miss,1,23,2,NA,NA,Adult,Female
+Miss,1,31,2,NA,NA,Adult,Female
+Miss,0,NA,2,NA,NA,Adult,Female
+Mrs,1,38,2,NA,NA,Adult,Female
+Nobleman,0,7,2,NA,NA,Child,Male
+Mrs,0,33,2,NA,NA,Adult,Female
+Miss,0,0.5,2,NA,NA,Child,Female
+Miss,1,25,2,NA,May Barrett (flatmate),Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,1,24,2,NA,NA,Adult,Male
+Mr,1,32,2,NA,NA,Adult,Male
+Miss,0,21,2,NA,NA,Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Nobleman,0,0.5,2,NA,NA,Child,Male
+Nobleman,0,6,2,NA,NA,Child,Male
+Mrs,1,32,2,NA,NA,Adult,Female
+Mrs,0,27,2,NA,NA,Adult,Female
+Miss,1,36,2,NA,NA,Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Dr,1,26,2,NA,NA,Adult,Male
+Miss,0,57,2,NA,NA,Adult,Female
+Mr,1,26,2,NA,NA,Adult,Male
+Mr,1,38,2,NA,"George Davies, William Hill, Gwynn Jones, George Lane, Thomas Williams (Welsh choir), John Preston-Smith (unofficial member)",Adult,Male
+Mrs,1,32,2,NA,NA,Adult,Female
+Miss,1,25,2,NA,NA,Adult,Female
+Mr,1,36,2,NA,NA,Adult,Male
+Mrs,0,42,2,NA,NA,Adult,Female
+Mr,0,44,2,NA,NA,Adult,Male
+Mr,1,45,2,E deck,NA,Adult,Male
+Mr,0,27,2,NA,"Jeanette Mitchell (wife), Walter Mitchell, JrNA (son), John Moore (brother-in-law)",Adult,Male
+Nobleman,0,0.83,2,NA,"Walter Mitchell (father), Jeanette Mitchell (mother), John Moore (uncle)",Child,Male
+Mrs,1,27,2,NA,"Walter Mitchell (husband), Walter Mitchell, JrNA (son), John Moore (brother)",Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Miss,0,NA,2,NA,NA,Adult,Female
+Miss,1,38,2,NA,Martha Moody (mother),Adult,Female
+Mrs,0,70,2,NA,Meta Moody (daughter),Adult,Female
+Mr,1,24,2,NA,"Jeanette Mitchell (sister), Walter Mitchell (brother-in-law), Walter Mitchell, JrNA (nephew)",Adult,Male
+Dr,1,36,2,NA,NA,Adult,Male
+Mr,0,62,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Rev,1,32,2,NA,NA,Adult,Male
+Mr,0,58,2,NA,"Sarah Lund (daughter), Charles Lund (son-in-law)",Adult,Male
+Mr,1,62,2,NA,NA,Adult,Male
+Miss,1,34,2,NA,NA,Adult,Female
+Mrs,1,30,2,NA,NA,Adult,Female
+Mr,0,19,2,D 92,Eunice Kinch (mother),Adult,Male
+Nobleman,1,16,2,NA,NA,Child,Male
+Mrs,1,49,2,NA,Theodore Naish (husband),Adult,Female
+Mr,0,59,2,NA,Belle Naish (wife),Adult,Male
+Miss,1,29,2,NA,NA,Adult,Female
+Mr,1,NA,2,NA,NA,Adult,Male
+Mr,1,27,2,NA,NA,Adult,Male
+Mr,0,18,2,NA,"Henry Neilson (father), Frances Neilson (mother)",Adult,Male
+Mr,0,41,2,NA,"Frances Neilson (wife), Charles Neilson (son)",Adult,Male
+Mrs,0,40,2,NA,"Henry Neilson (husband), Charles Neilson (son)",Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,40,2,NA,"Mabel Neville (wife), Evelyn Neville (daughter), Charles Neville (son), Muriel Neville (daughter)",Adult,Male
+Nobleman,0,11,2,NA,"Charles Neville (father), Mabel Neville (mother), Evelyn Neville (sister), Muriel Neville (sister)",Child,Male
+Mrs,1,35,2,NA,"Charles Neville (husband), Evelyn Neville (daughter), Charles Neville (son), Muriel Neville (daughter)",Adult,Female
+Miss,0,4,2,NA,"Charles Neville (father), Mabel Neville (mother), Mabel Neville (sister), Charles Neville (brother)",Child,Female
+Miss,0,14,2,NA,"Charles Neville (father), Mabel Neville (mother), Charles Neville (brother), Muriel Neville (sister)",Child,Female
+Miss,0,22,2,NA,NA,Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,27,2,NA,NA,Adult,Male
+Mr,0,39,2,NA,NA,Adult,Male
+Miss,1,25,2,NA,NA,Adult,Female
+Mr,1,35,2,NA,NA,Adult,Male
+Mrs,1,33,2,NA,"Ronald Owens (son), Reginald Owens (son), Alfred Smith (brother), Elizabeth Smith (sister-in-law), Helen Smith (niece), Bessie Smith (niece)",Adult,Female
+Nobleman,0,8,2,NA,"Ceceila Owens (mother), Ronald Owens (brother), Alfred Smith (uncle), Elizabeth Smith (aunt), Helen Smith (cousin), Bessie Smith (cousin)",Child,Male
+Nobleman,0,10,2,NA,"Ceceila Owens (mother), Reginald Owens (brother), Alfred Smith (uncle), Elizabeth Smith (aunt), Helen Smith (cousin), Bessie Smith (cousin)",Child,Male
+Mr,1,30,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,"Annie Palmer (wife), Edgar Palmer (son), Olive Palmer (daughter), Albert Palmer (son)",Adult,Male
+Mr,0,NA,2,NA,Kathleen Palmer (sister?),Adult,Male
+Nobleman,0,0.5,2,NA,"Albert Palmer (father), Annie Palmer (mother), Edgar Palmer (brother), Olive Palmer (sister)",Child,Male
+Nobleman,0,6,2,NA,"Albert Palmer (father), Annie Palmer (mother), Olive Palmer (sister), Albert Palmer (brother)",Child,Male
+Mrs,0,33,2,NA,"Albert Palmer (husband), Edgar Palmer (son), Olive Palmer (daughter), Albert Palmer (son)",Adult,Female
+Miss,0,41,2,NA,Frank Palmer (brother?),Adult,Female
+Miss,0,4,2,NA,"Albert Palmer (father), Annie Palmer (mother), Edgar Palmer (brother), Albert Palmer (brother)",Child,Female
+Mr,0,30,2,NA,NA,Adult,Male
+Mrs,0,35,2,NA,NA,Adult,Female
+Miss,0,13,2,NA,NA,Child,Female
+Miss,1,28,2,NA,NA,Adult,Female
+Mr,1,19,2,NA,NA,Adult,Male
+Nobleman,1,17,2,NA,Elizabeth Peacock (mother),Child,Male
+Mrs,1,48,2,NA,Thomas Peacock (son),Adult,Female
+Mr,1,24,2,NA,"Mary Pells (wife), John Pells (son)",Adult,Male
+Nobleman,0,0.2,2,NA,"Cyril Pells (father), Mary Pells (mother)",Child,Male
+Mrs,1,32,2,NA,"Cyril Pells (husband), John Pells (son)",Adult,Female
+Rev,0,44,2,C 3,NA,Adult,Male
+Nobleman,0,4,2,NA,"Annie Pirie (mother), Margaret Pirie (sister)",Child,Male
+Mrs,0,35,2,NA,"Margaret Pirie (daughter), Arthur Pirie (son)",Adult,Female
+Miss,0,10,2,NA,"Annie Pirie (mother), Arthur Pirie (brother)",Child,Female
+Miss,0,NA,2,E 135,NA,Adult,Female
+Mrs,1 (died from trauma),61,2,NA,NA,Adult,Female
+Mrs,0,45,2,NA,NA,Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mrs,0,30,2,Roommate with Bessie Barbour,NA,Adult,Female
+Miss,0,34,2,NA,NA,Adult,Female
+Mr,1,28,2,NA,"George Davies, Michael Dewi, William Hill, Gwynn Jones, George Lane, Thomas Williams (Welsh choir)",Adult,Male
+Mr,0,29,2,D 90,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,Gertrude Purse (wife),Adult,Male
+Mrs,0,NA,2,NA,Reginald Purse (husband),Adult,Female
+Mrs,1,28,2,NA,Marjorie Pye (daughter),Adult,Female
+Miss,0,1.5,2,NA,Charlotte Pye (mother),Child,Female
+Mr,1,29,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,1,40,2,D 80,"Phyllis Richards (wife), Thomas Richards (son), Cecil Richards (son), Dora Richards (daughter), Caroline Treverrow (sister)",Adult,Male
+Nobleman,1,4,2,D 80,"Thomas Richards (father), Phyllis Richards (mother), Thomas Richards (brother), Dora Richards (sister), Caroline Treverrow (aunt)",Child,Male
+Nobleman,1,7,2,D 80,"Thomas Richards (father), Phyllis Richards (mother), Cecil Richards (brother), Dora Richards (sister), Caroline Treverrow (aunt)",Child,Male
+Mrs,1,38,2,D 80,"Thomas Richards (husband), Thomas Richards (son), Cecil Richards (son), Dora Richards (daughter), Caroline Treverrow (sister-in-law)",Adult,Female
+Miss,0,1.5,2,D 80,"Thomas Richards (father), Phyllis Richards (mother), Thomas Richards (brother), Cecil Richards (brother), Caroline Treverrow (aunt)",Child,Female
+Mrs,1,39,2,E 114,NA,Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,Edith Robinson (wife),Adult,Male
+Mrs,1,NA,2,NA,Thomas Robinson (husband),Adult,Female
+Mr,0,29,2,NA,Annie Robson (sister?),Adult,Male
+Miss,0,30,2,NA,Kenneth Robson (brother?),Adult,Female
+Miss,1,NA,2,NA,"Sarah Fish (sister), Sadie Fish, Marion Fish, Joan Fish (nieces)",Adult,Female
+Mr,0,41,2,NA,Ernest Cowper (employee),Adult,Male
+Mr,0,31,2,NA,NA,Adult,Male
+Miss,0,NA,2,NA,NA,Adult,Female
+Mr,1,NA,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Miss,0,NA,2,NA,NA,Adult,Female
+Mr,0,37,2,NA,NA,Adult,Male
+Mr,0,36,2,NA,NA,Adult,Male
+Mr,1,50,2,NA,NA,Adult,Male
+Mr,1,27,2,NA,NA,Adult,Male
+Mr,1,NA,2,NA,NA,Adult,Male
+Mrs,1,35,2,NA,NA,Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Nobleman,0,0.2,2,NA,Agnes Semple (mother),Child,Male
+Mrs,0,29,2,NA,John Semple (son),Adult,Female
+Miss,0,32,2,NA,NA,Adult,Female
+Mr,0,29,2,NA,Margaret Shineman (wife),Adult,Male
+Mrs,0,NA,2,NA,James Shineman (husband),Adult,Female
+Rev,1,37,2,C 3,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,1,27,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Miss,1,6,2,NA,"Alfred Smith (father), Elizabeth Smith (mother), Bessie Smith (sister), Cecelia Owens (aunt), Ronald Owens (cousin), Reginald Owens (cousin)",Child,Female
+Mr,0,32,2,NA,NA,Adult,Male
+Mr,0,35,2,NA,"GNoblewomans Smith (wife), Dorothy Smith (daughter)",Adult,Male
+Mr,0,NA,2,NA,"Elizabeth Smith (wife), Helen Smith (daughter), Bessie Smith (daughter), Cecelia Owens (sister), Ronald Owens (nephew), Reginald Owens (nephew)",Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Nobleman,0,0.5,2,NA,"Alfred Smith (father), Elizabeth Smith (mother), Helen Smith (sister), Cecelia Owens (aunt), Ronald Owens (cousin), Reginald Owens (cousin)",Child,Male
+Mrs,0,31,2,NA,"Albert Smith (husband), Dorothy Smith (daughter)",Adult,Female
+Mrs,0,NA,2,NA,"Alfred Smith (husband), Helen Smith (daughter), Bessie Smith (daughter), Cecelia Owens (sister-in-law), Ronald Owens (nephew), Reginald Owens (nephew)",Adult,Female
+Miss,0,NA,2,NA,"Avis Dolphin (employer's daughter), Hilda Ellis (coworker)",Adult,Female
+Miss,0,0.2,2,NA,"Albert Smith (father), GNoblewomans Smith (mother)",Child,Female
+Mr,1,33,2,NA,NA,Adult,Male
+Mr,0,33,2,NA,Eliza Spillman (wife),Adult,Male
+Mrs,0,NA,2,NA,John Spillman (husband),Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,57,2,NA,NA,Adult,Male
+Mrs,0,NA,2,NA,Elizabeth Stevenson (daughter),Adult,Female
+Miss,0,0.2,2,NA,Janet Stevenson (mother),Child,Female
+Nobleman,1,0.83,2,NA,Christina Stewart (mother),Child,Male
+Mrs,1,30,2,NA,John Stewart (son),Adult,Female
+Mr,0,NA,2,NA,"Mabel Stokes (wife), William Stokes (son)",Adult,Male
+Nobleman,0,2.5,2,NA,"Ted Stokes (father), Mabel Stokes (mother)",Child,Male
+Mrs,0,NA,2,NA,"Ted Stokes (husband), William Stokes (son)",Adult,Female
+Mr,1,28,2,NA,Hilda Stones (wife),Adult,Male
+Mrs,0,29,2,NA,Norman Stones (husband),Adult,Female
+Mr,1,29,2,NA,NA,Adult,Male
+Mr,1,38,2,NA,"Constance Stroud (wife), Helen Stroud (daughter)",Adult,Male
+Mrs,1,31,2,NA,"Edwin Stroud (husband), Helen Stroud (daughter)",Adult,Female
+Miss,0,3,2,NA,"Edwin Stroud (father), Constance Stroud (mother)",Child,Female
+Mr,0,NA,2,NA,Emily Sullivan (wife),Adult,Male
+Mrs,0,NA,2,NA,George Sullivan (husband),Adult,Female
+Mr,1,26,2,C deck,Julia Sullivan (wife),Adult,Male
+Mrs,1,25,2,C deck,Florence Sullivan (husband),Adult,Female
+Mr,1,NA,2,NA,NA,Adult,Male
+Mrs,0,NA,2,NA,NA,Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,1,NA,2,NA,NA,Adult,Male
+Mr,1,22,2,NA,NA,Adult,Male
+Mr,1,31,2,NA,NA,Adult,Male
+Mr,1,27,2,NA,NA,Adult,Male
+Nobleman,1,14,2,NA,Annie Taylor (mother),Child,Male
+Mrs,0,41,2,NA,Stanley Taylor (son),Adult,Female
+Mr,0,33,2,NA,Mary Thomas (wife),Adult,Male
+Mrs,0,NA,2,NA,Ernest Thomas (husband),Adult,Female
+Mr,0,37,2,NA,William Dale (friend),Adult,Male
+Mr,0,37,2,NA,NA,Adult,Male
+Miss,0,30,2,NA,NA,Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mrs,0,26,2,NA,Nina Tierney (daughter),Adult,Female
+Miss,0,5,2,NA,Mary Tierney (mother),Child,Female
+Mr,1,44,2,NA,Howard Tijou (son),Adult,Male
+Nobleman,0,10,2,NA,Walter Tijou (father),Child,Male
+Mr,0,28,2,NA,NA,Adult,Male
+Mrs,0,62,2,NA,"Thomas Richards (brother), Phyllis Richards (sister-in-law), Thomas Richards (nephew), Cecil Richards (nephew), Dora Richards (niece)",Adult,Female
+Mr,0,NA,2,NA,"Agnes Tulloch (wife), Hannah Tulloch (daughter)",Adult,Male
+Mrs,0,21,2,NA,"James Tulloch (husband), Hannah Tulloch (daughter)",Adult,Female
+Miss,0,0.83,2,NA,"James Tulloch (father), Agnes Tulloch (mother)",Child,Female
+Mr,1,30,2,NA,Maud Turpin (wife),Adult,Male
+Mrs,1,NA,2,NA,Thomas Turpin (husband),Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,30,2,NA,NA,Adult,Male
+Mr,0,70,2,NA,NA,Adult,Male
+Miss,0,50,2,NA,NA,Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Dr,1,28,2,NA,NA,Adult,Male
+Mr,0,28,2,NA,Gertrude Walker (wife),Adult,Male
+Mrs,0,26,2,NA,John Walker (husband),Adult,Female
+Miss,0,NA,2,NA,NA,Adult,Female
+Mr,1,20,2,C 28,NA,Adult,Male
+Miss,0,NA,2,NA,NA,Adult,Female
+Miss,0,NA,2,NA,NA,Adult,Female
+Miss,0,NA,2,NA,NA,Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,21,2,NA,NA,Adult,Male
+Miss,0,25,2,NA,"Margaret Waters (sister), nurse",Adult,Female
+Miss,0,29,2,NA,"Katherine Waters (sister), nurse",Adult,Female
+Miss,1,34,2,NA,NA,Adult,Female
+Mr,1,28,2,NA,"Margaret Webster (wife), William Webster (son), Frederick Webster (son), Henry Webster (son)",Adult,Male
+Nobleman,0,0.83,2,NA,"Frederick Webster (father), Margaret Webster (mother), William Webster (brother), Henry Webster (brother)",Child,Male
+Nobleman,0,0.83,2,NA,"Frederick Webster (father), Margaret Webster (mother), William Webster (brother), Frederick Webster (brother)",Child,Male
+Nobleman,1,3,2,NA,"Frederick Webster (father), Margaret Webster (mother), Frederick Webster (brother), Henry Webster (brother)",Child,Male
+Mrs,0,24,2,NA,"Frederick Webster (husband), William Webster (son), Frederick Webster (son), Henry Webster (son)",Adult,Female
+Mr,0,31,2,NA,NA,Adult,Male
+Mr,1,33,2,NA,NA,Adult,Male
+Mr,1,25,2,NA,NA,Adult,Male
+Miss,1,41,2,E 135,Elizabeth Hampshire (foster sister),Adult,Female
+Mrs,1,60,2,Roommates with Phoebe Amory and Mary Higginbottom,NA,Adult,Female
+Mrs,0,50,2,NA,NA,Adult,Female
+Miss,1,0.2,2,NA,"Cyril Wickings-Smith (father), Phyllis Wickings-Smith (mother), Basil Wickings-Smith (uncle)",Child,Female
+Mr,1,27,2,NA,"Basil Wickings-Smith (brother), Phyllis Wickings-Smith (wife), Nancy Wickings-Smith (daughter)",Adult,Male
+Mr,0,29,2,NA,"Cyril Wickings-Smith (brother), Phyllis Wickings-Smith (sister-in-law), Nancy Wickings-Smith (niece)",Adult,Male
+Mrs,1,24,2,NA,"Cyril Wickings-Smith (husband), Nancy Wickings-Smith (daughter), Basil Wickings-Smith (brother-in-law)",Adult,Female
+Mrs,1,49,2,NA,NA,Adult,Female
+Miss,1,21,2,NA,Evelyn Wild (sister),Adult,Female
+Miss,1,25,2,NA,Agnes Wild (sister),Adult,Female
+Mr,1,32,2,NA,"George Davies, William Hill, George Lane, Gwynn Jones, Dewi Michael (Welsh choir), John Preston-Smith (unofficial member)",Adult,Male
+Mr,1,NA,2,NA,NA,Adult,Male
+Miss,1,24,2,NA,NA,Adult,Female
+Mrs,0,55,2,NA,NA,Adult,Female
+Mr,1,NA,2,Roommate of Archie Donald and George Bilbrough,Archie Donald (college roommate),Adult,Male
+Mrs,1,46,2,NA,NA,Adult,Female
+Miss,0,NA,2,NA,NA,Adult,Female
+Miss,1,31,2,NA,NA,Adult,Female
+Sister,0,59,2,NA,NA,Adult,Female
+Mrs,1,49,2,NA,John Wolfenden (husband),Adult,Female
+Mr,0,51,2,NA,Dora Wolfenden (wife),Adult,Male
+Miss,0,NA,2,NA,NA,Adult,Female
+Mrs,0,NA,2,NA,NA,Adult,Female
+Mrs,0,56,2,NA,NA,Adult,Female
+Mr,1,27,2,NA,Ruth Wordsworth,Adult,Male
+Miss,1,37,2,NA,Osmond Wordsworth,Adult,Female
+Miss,0,NA,2,NA,NA,Adult,Female
+Mrs,0,NA,2,NA,NA,Adult,Female
+Mr,0,NA,2,NA,NA,Adult,Male
+Mr,0,36,2,NA,Cora Yeatman (wife),Adult,Male
+Mrs,0,33,2,NA,Charles Yeatman (husband),Adult,Female
+Mr ,0,NA,3,NA,"German spy arrested by Inspector Pierpont, 0 in sinking",Adult,Male
+Mr ,0,NA,3,NA,"German spy arrested by Inspector Pierpont, 0 in sinking",Adult,Male
+Mr ,0,NA,3,NA,"German spy arrested by Inspector Pierpont, 0 in sinking",Adult,Male
+Mr,0,27,3,NA,Mrs Agnew (wife),Adult,Male
+Mrs,0,27,3,NA,Thomas Agnew (husband),Adult,Female
+Mr,1,30,3,NA,NA,Adult,Male
+Mr,0,37,3,NA,NA,Adult,Male
+Mrs,0,54,3,NA,NA,Adult,Female
+Mr,0,39,3,NA,NA,Adult,Male
+Mr,0,22,3,NA,NA,Adult,Male
+Nobleman,1,3,3,NA,"Aino Antila (mother), Carl Antila (brother)",Child,Male
+Nobleman,1,4,3,NA,"Aino Antila (mother), Jan Antila (brother)",Child,Male
+Mrs,1,25,3,NA,"Carl Antila (son), Jan Antila (son)",Adult,Female
+Mr,0,45,3,NA,NA,Adult,Male
+Mr,1,27,3,NA,NA,Adult,Male
+Mr,1,30,3,NA,"Thomas Stevens, Johan Jacob Baba, George Baba",Adult,Male
+Mr,1,33,3,NA,Persian party,Adult,Male
+Mr,0,39,3,NA,Persian party,Adult,Male
+Mr,0,45,3,NA,Persian party,Adult,Male
+Mr,0,33,3,NA,NA,Adult,Male
+Mr,0,39,3,NA,NA,Adult,Male
+Mr,1,28,3,NA,NA,Adult,Male
+Mr,1,40,3,NA,"Agnes Veale (sister), Albert Veale (brother-in-law)",Adult,Male
+Miss,1,29,3,NA,NA,Adult,Female
+Mr,0,30,3,NA,NA,Adult,Male
+Mr,1,30,3,NA,NA,Adult,Male
+Mr,1,25,3,NA,May Barrow (wife),Adult,Male
+Mrs,0,20,3,NA,Donald Barrow (husband),Adult,Female
+Mr,0,38,3,NA,"Ellen Bartley (wife), Arthur Bartley (son), Gordon Bartley (son)",Adult,Male
+Nobleman,0,0.4,3,NA,"George Bartley (father), Ellen Bartley (mother), Arthur Bartley (brother)",Child,Male
+Nobleman,0,4,3,NA,"George Bartley (father), Ellen Bartley (mother), Gordon Bartley (brother)",Child,Male
+Mrs,0,28,3,NA,"George Bartley (husband), Arthur Bartley (son), Gordon Bartley (son)",Adult,Female
+Mr,1,36,3,NA,NA,Adult,Male
+Miss,1,30,3,NA,NA,Adult,Female
+Mr,0,39,3,NA,NA,Adult,Male
+Mr,0,26,3,NA,NA,Adult,Male
+Mr,1,30,3,NA,NA,Adult,Male
+Mr,0,44,3,NA,NA,Adult,Male
+Mr,0,50,3,NA,Alice Bishop (wife),Adult,Male
+Mrs,0,49,3,NA,Joseph Bishop (husband),Adult,Female
+Mr,0,42,3,NA,NA,Adult,Male
+Nobleman,0,1,3,NA,Alice Blackshaw (mother),Child,Male
+Mrs,0,29,3,NA,John Blackshaw (son),Adult,Female
+Mr,1,37,3,NA,NA,Adult,Male
+Mr,0,32,3,NA,"Florence Bodell (wife), Thomas Bodell (son)",Adult,Male
+Nobleman,0,3,3,NA,"Thomas Bodell (father), Florence Bodell (mother)",Child,Male
+Mrs,0,36,3,NA,"Thomas Bodell (husband), Thomas Bodell (son)",Adult,Female
+Mr,0,28,3,NA,NA,Adult,Male
+Mr,1,26,3,NA,NA,Adult,Male
+Mr,1,28,3,NA,NA,Adult,Male
+Miss,0,24,3,NA,"Agnes Smith, Agnes Crosbie, Sarah McClellan",Adult,Female
+Mr,1,34,3,NA,Philate Bozenof (brother),Adult,Male
+Mr,1,35,3,NA,Dennis Bozenof (brother),Adult,Male
+Mr,1,31,3,NA,NA,Adult,Male
+Miss,0,28,3,NA,Constance Brown (sister),Adult,Female
+Miss,0,38,3,NA,Evelyn Brown (sister),Adult,Female
+Mr,1,50,3,NA,NA,Adult,Male
+Mr,0,48,3,NA,NA,Adult,Male
+Mr,0,38,3,NA,NA,Adult,Male
+Miss,0,45,3,NA,NA,Adult,Female
+Miss,0,28,3,NA,NA,Adult,Female
+Mr,0,38,3,NA,NA,Adult,Male
+Mr,0,57,3,NA,NA,Adult,Male
+Miss,0,37,3,NA,NA,Adult,Female
+Mr,0,41,3,NA,NA,Adult,Male
+Mr,0,21,3,NA,NA,Adult,Male
+Mr,0,23,3,NA,NA,Adult,Male
+Mr,0,39,3,NA,NA,Adult,Male
+Mr,1,38,3,NA,NA,Adult,Male
+Nobleman,0,0.4,3,NA,Nellie Cooper (mother),Child,Male
+Mrs,0,33,3,NA,Joseph Cooper (son),Adult,Female
+Mr,0,40,3,NA,"Katherine Coughlan (wife), John Coughlan (son), Margaret Coughlan (daughter), Jeremiah Coughlan (son)",Adult,Male
+Nobleman,1,0.83,3,NA,"John Coughlan (father), Katherine Coughlan (mother), John Coughlan (brother), Margaret Coughlan (sister)",Child,Male
+Nobleman,1,3,3,NA,"John Coughlan (father), Katherine Coughlan (mother), Margaret Coughlan (sister), Jeremiah Coughlan (brother)",Child,Male
+Mrs,1,40,3,NA,"John Coughlan (husband), John Coughlan (son), Margaret Coughlan (daughter), Jeremiah Coughlan (son)",Adult,Female
+Miss,0,2.5,3,NA,"John Coughlan (father), Katherine Coughlan (mother), John Coughlan (brother), Jeremiah Coughlan (brother)",Child,Female
+Mr,0,18,3,NA,NA,Adult,Male
+Miss,1,24,3,NA,"Nicholas Boyle, Agnes Smith, Sarah McClellan",Adult,Female
+Mr,0,21,3,NA,NA,Adult,Male
+Mr,0,47,3,NA,NA,Adult,Male
+Miss,0,30,3,NA,Delia Kilkenny (cousin),Adult,Female
+Miss,0,22,3,NA,NA,Adult,Female
+Mr,1,48,3,NA,NA,Adult,Male
+Mr,1,23,3,NA,NA,Adult,Male
+Miss,1,34,3,NA,NA,Adult,Female
+Mr,1,31,3,NA,"Evelyn Dhenin (wife), Thomas Dhenin (son), Isabella Dhenin (daughter)",Adult,Male
+Nobleman,0,10,3,NA,"Thomas Dhenin (father), Evelyn Dhenin (mother), Isabella Dhenin (sister)",Child,Male
+Mrs,0,33,3,NA,"Thomas Dhenin (husband), Thomas Dhenin (son), Isabella Dhenin (daughter)",Adult,Female
+Miss,0,2,3,NA,"Thomas Dhenin (father), Evelyn Dhenin (mother), Thomas Dhenin (brother)",Child,Female
+Mr,1,41,3,NA,NA,Adult,Male
+Miss,0,24,3,NA,NA,Adult,Female
+Mr,0,24,3,NA,NA,Adult,Male
+Mr,0,29,3,NA,NA,Adult,Male
+Dr,0,54,3,NA,NA,Adult,Male
+Mr,1,31,3,NA,NA,Adult,Male
+Miss,0,24,3,NA,NA,Adult,Female
+Mr,0,45,3,NA,NA,Adult,Male
+Mrs,1,52,3,NA,NA,Adult,Female
+Mrs,1,43,3,NA,NA,Adult,Female
+Mr,0,34,3,NA,NA,Adult,Male
+Miss,0,34,3,NA,NA,Adult,Female
+Mr,0,28,3,NA,NA,Adult,Male
+Mr,0,35,3,NA,NA,Adult,Male
+Mr,1,32,3,NA,NA,Adult,Male
+Mr,1,28,3,NA,Margaret Faulds (wife),Adult,Male
+Mrs,1,27,3,NA,Andrew Faulds (husband),Adult,Female
+Mr,0,29,3,NA,Teresa Feeley (wife),Adult,Male
+Mrs,0,34,3,NA,Joseph Feeley (husband),Adult,Female
+Nobleman,0,1.3,3,NA,Mary Ferguson (mother),Child,Male
+Mrs,0,23,3,NA,Edward Ferguson (son),Adult,Female
+Mr,0,26,3,NA,Margaret Ferrick (sister),Adult,Male
+Miss,0,22,3,NA,John Ferrick (brother),Adult,Female
+Mr,0,29,3,NA,NA,Adult,Male
+Mr,0,37,3,NA,NA,Adult,Male
+Mr,1,36,3,NA,"Annie Frankum (wife), Francis Frankum (son), Frederick Frankum (son), Winifred Frankum (daughter)",Adult,Male
+Nobleman,0,4,3,NA,"Joseph Frankum (father), Annie Frankum (mother), Francis Frankum (brother), Winifred Frankum (sister)",Child,Male
+Nobleman,1,7,3,NA,"Joseph Frankum (father), Annie Frankum (mother), Frederick Frankum (brother), Winifred Frankum (sister)",Child,Male
+Mrs,0,36,3,NA,"Joseph Frankum (husband), Francis Frankum (son), Frederick Frankum (son), Winifred Frankum (daughter)",Adult,Female
+Miss,0,0.83,3,NA,"Joseph Frankum (father), Annie Frankum (mother), Frederick Frankum (brother), Francis Frankum (brother)",Child,Female
+Mr,0,30,3,NA,NA,Adult,Male
+Mr,1,27,3,NA,NA,Adult,Male
+Mr,0,36,3,NA,NA,Adult,Male
+Mr,1,36,3,NA,NA,Adult,Male
+Miss,0,23,3,NA,NA,Adult,Female
+Mr,0,30,3,NA,"Beatrice Goodall (wife), Leonard Goodall (son), Jack Goodall (son)",Adult,Male
+Nobleman,0,0.83,3,NA,"William Goodall (father), Beatrice Goodall (mother), JLeonard Goodall (brother)",Child,Male
+Nobleman,0,7,3,NA,"William Goodall (father), Beatrice Goodall (mother), Jack Goodall (brother)",Child,Male
+Mrs,0,33,3,NA,"William Goodall (husband), Leonard Goodall (son), Jack Goodall (son)",Adult,Female
+Mr,0,23,3,NA,NA,Adult,Male
+Miss,1,30,3,NA,NA,Adult,Female
+Mr,1,NA,3,NA,NA,Adult,Male
+Mr,0,26,3,NA,NA,Adult,Male
+Mr,1,52,3,NA,NA,Adult,Male
+Mr,0,NA,3,NA,NA,Adult,Male
+Mr,1,37,3,NA,NA,Adult,Male
+Mr,1,27,3,NA,NA,Adult,Male
+Mr,0,28,3,NA,NA,Adult,Male
+Mr,0,70,3,NA,NA,Adult,Male
+Mr,1,26,3,NA,NA,Adult,Male
+Mr,0,36,3,NA,NA,Adult,Male
+Mr,1,NA,3,NA,NA,Adult,Male
+Mr,0,37,3,NA,Mary Hanus (wife),Adult,Male
+Mrs,0,37,3,NA,Charles Hanus (husband),Adult,Female
+Mr,0,41,3,NA,NA,Adult,Male
+Mr,1,24,3,NA,NA,Adult,Male
+Mr,0,53,3,NA,NA,Adult,Male
+Mr,1,35,3,NA,Clara Hebden (wife),Adult,Male
+Mrs,0,27,3,NA,Robert Hebdon (husband),Adult,Female
+Mrs,1,24,3,NA,NA,Adult,Female
+Mr,1,31,3,NA,NA,Adult,Male
+Miss,1,39,3,NA,NA,Adult,Female
+Mr,1,47,3,NA,"Elsie Hook (daughter), Frank Hook (son), Annie Marsh (housekeeper), Thomas Marsh (Annie's husband), Thomas Marsh (Annie and Thomas's son)",Adult,Male
+Nobleman,1,11,3,NA,"George Hook (father), Elsie Hook (sister), Annie Marsh (housekeeper), Thomas Marsh (Annie's husband), Thomas Marsh (Annie and Thomas's son)",Child,Male
+Miss,1,12,3,NA,"George Hook (father), Frank Hook (brother), Annie Marsh (housekeeper), Thomas Marsh (Annie's husband), Thomas Marsh (Annie and Thomas's son)",Child,Female
+Mr,0,27,3,NA,NA,Adult,Male
+Mr,0,36,3,NA,NA,Adult,Male
+Mrs,1,42,3,NA,NA,Adult,Female
+Mr,0,33,3,NA,NA,Adult,Male
+Mr,0,26,3,NA,NA,Adult,Male
+Mr,0,36,3,NA,NA,Adult,Male
+Mr,0,29,3,NA,NA,Adult,Male
+Mr,0,34,3,NA,NA,Adult,Male
+Mr,1,27,3,NA,NA,Adult,Male
+Mrs,0,67,3,NA,NA,Adult,Female
+Miss,1,32,3,NA,nurse traveling with others (who?),Adult,Female
+Mr,0,73,3,NA,NA,Adult,Male
+Mr,0,36,3,NA,NA,Adult,Male
+Mr,1,24,3,NA,NA,Adult,Male
+Mr,0,27,3,NA,NA,Adult,Male
+Mr,0,72,3,NA,NA,Adult,Male
+Mr,0,65,3,NA,NA,Adult,Male
+Mr,1,24,3,NA,NA,Adult,Male
+Mr,0,33,3,NA,Persian party,Adult,Male
+Mr,0,50,3,NA,NA,Adult,Male
+Miss,0,19,3,NA,NA,Adult,Female
+Miss,0,32,3,NA,NA,Adult,Female
+Miss,1,26,3,NA,NA,Adult,Female
+Mr,0,28,3,NA,NA,Adult,Male
+Miss,0,22,3,NA,NA,Adult,Female
+Miss,1,33,3,NA,NA,Adult,Female
+Miss,1,30,3,NA,NA,Adult,Female
+Mr,0,24,3,NA,NA,Adult,Male
+Mr,0,32,3,NA,NA,Adult,Male
+Miss,0,24,3,NA,NA,Adult,Female
+Mr,0,59,3,NA,NA,Adult,Male
+Mr,1,43,3,NA,NA,Adult,Male
+Mr,0,25,3,NA,NA,Adult,Male
+Mr,0,29,3,NA,NA,Adult,Male
+Mr,0,26,3,NA,NA,Adult,Male
+Mr,0,32,3,NA,NA,Adult,Male
+Nobleman,0,5,3,NA,Delia Lambert (mother),Child,Male
+Mrs,0,25,3,NA,William Lambert (son),Adult,Female
+Mr,0,44,3,NA,NA,Adult,Male
+Mr,0,23,3,NA,NA,Adult,Male
+Mr,1,32,3,NA,NA,Adult,Male
+Mr,0,24,3,NA,NA,Adult,Male
+Mr,0,26,3,NA,NA,Adult,Male
+Mr,0,30,3,NA,NA,Adult,Male
+Nobleman,0,11,3,NA,"Florence Lockwood (mother), Lily Lockwood (sister), Edith Robshaw (cousin)",Child,Male
+Mrs,0,35,3,NA,"Clifford Lockwood (son), Lily Lockwood (daughter), Edith Robshaw (niece)",Adult,Female
+Miss,0,7,3,NA,"Florence Lockwood (mother), Clifford Lockwood (brother), Edith Robshaw (cousin)",Child,Female
+Nobleman,0,0.83,3,NA,Ruth Logan (mother),Child,Male
+Mrs,1,27,3,NA,Robert Logan (son),Adult,Female
+Mr,0,23,3,NA,NA,Adult,Male
+Mr,0,21,3,NA,NA,Adult,Male
+Mr,0,32,3,NA,NA,Adult,Male
+Mr,0,20,3,NA,NA,Adult,Male
+Mr,1,30,3,NA,NA,Adult,Male
+Mr,0,39,3,NA,NA,Adult,Male
+Miss,0,26,3,NA,NA,Adult,Female
+Mr,1,40,3,NA,NA,Adult,Male
+Mr,1,34,3,NA,NA,Adult,Male
+Mr,0,50,3,NA,NA,Adult,Male
+Miss,0,24,3,NA,Elizabeth Marks (mother),Adult,Female
+Mrs,0,50,3,NA,Georgina Marks (daughter),Adult,Female
+Mr,0,29,3,NA,"Annie Marsh (wife), Thomas Marsh (son), George Hook (employer), Elsie Hook (employer's daughter), Frank Hook (employer's son)",Adult,Male
+Nobleman,0,0.83,3,NA,"Thomas Marsh (father), Annie Marsh (mother), George Hook (mother's employer), Elsie Hook (George's daughter), Frank Hook (George's son)",Child,Male
+Mrs,1,26,3,NA,"Thomas Marsh (husband), Thomas Marsh (son), George Hook (employer), Elsie Hook (employer's daughter), Frank Hook (employer's son)",Adult,Female
+Mrs,1,35,3,NA,NA,Adult,Female
+Mrs,1,56,3,NA,NA,Adult,Female
+Mr,0,31,3,NA,NA,Adult,Male
+Mr,1,27,3,NA,NA,Adult,Male
+Mr,1,22,3,NA,NA,Adult,Male
+Mr,0,28,3,NA,NA,Adult,Male
+Mr,0,23,3,NA,NA,Adult,Male
+Mr,0,27,3,NA,NA,Adult,Male
+Mr,1,32,3,NA,NA,Adult,Male
+Mr,1,30,3,NA,NA,Adult,Male
+Mr,0,28,3,NA,NA,Adult,Male
+Mr,1,22,3,NA,NA,Adult,Male
+Miss,0,24,3,NA,NA,Adult,Female
+Mr,1,35,3,NA,NA,Adult,Male
+Mr,0,27,3,NA,NA,Adult,Male
+Mr,0,30,3,NA,NA,Adult,Male
+Mr,0,26,3,NA,NA,Adult,Male
+Mr,0,NA,3,NA,NA,Adult,Male
+Mrs,1,46,3,NA,NA,Adult,Female
+Mr,1,31,3,NA,NA,Adult,Male
+Mr,0,24,3,NA,NA,Adult,Male
+Nobleman,0,4.25,3,NA,"Margaret Murray (mother), Elizabeth Young (housemate)",Child,Male
+Mrs,0,26,3,NA,"Walter Murray (son), Elizabeth Young (housemate)",Adult,Female
+Mrs,0,NA,3,NA,NA,Adult,Female
+Mr,0,22,3,NA,NA,Adult,Male
+Miss,1,29,3,NA,NA,Adult,Female
+Miss,1,NA,3,NA,NA,Adult,Female
+Mr,0,NA,3,NA,NA,Adult,Male
+Mr,0,27,3,NA,NA,Adult,Male
+Mr,0,23,3,NA,NA,Adult,Male
+Mr,0,27,3,NA,NA,Adult,Male
+Mr,0,35,3,NA,Persian party,Adult,Male
+Mr,0,28,3,NA,NA,Adult,Male
+Mr,0,22,3,NA,NA,Adult,Male
+Mr,0,46,3,NA,NA,Adult,Male
+Mr,0,45,3,NA,NA,Adult,Male
+Mr,0,29,3,NA,NA,Adult,Male
+Mr,0,21,3,NA,NA,Adult,Male
+Mr,1,23,3,NA,NA,Adult,Male
+Mr,1,27,3,NA,NA,Adult,Male
+Mr,0,34,3,NA,NA,Adult,Male
+Mr,1,16,3,NA,NA,Child,Male
+Mr,0,40,3,NA,NA,Adult,Male
+Mr,1,30,3,NA,NA,Adult,Male
+Mr,0,38,3,NA,NA,Adult,Male
+Mr,1,44,3,NA,NA,Adult,Male
+Mr,0,25,3,NA,NA,Adult,Male
+Mr,1,34,3,NA,NA,Adult,Male
+Miss,1,29,3,NA,NA,Adult,Female
+Mr,0,50,3,NA,NA,Adult,Male
+Mrs,0,26,3,NA,NA,Adult,Female
+Miss,1,4,3,NA,"Edward Riley (father), Annie Riley (mother), Sutcliffe Riley (sister)",Child,Female
+Miss,1,4,3,NA,"Edward Riley (father), Annie Riley (mother), Ethel Riley (sister)",Child,Female
+Mr,1,30,3,NA,"Annie Riley (wife), Sutcliffe Riley (daughter), Ethel Riley (daughter)",Adult,Male
+Mrs,1,29,3,NA,"Edward Riley (husband), Sutcliffe Riley (daughter), Ethel Riley (daughter)",Adult,Female
+Mr,0,26,3,NA,NA,Adult,Male
+Mrs,0,26,3,NA,"Florence Lockwood (aunt), Clifford Lockwood (cousin), Lillian Lockwood (cousin)",Adult,Female
+Mr,0,28,3,NA,Persian party,Adult,Male
+Nobleman,1,8,3,NA,Alice Scott (mother),Child,Male
+Mrs,0,29,3,NA,Arthur Scott (son),Adult,Female
+Mr,1,29,3,NA,NA,Adult,Male
+Mr,0,35,3,NA,NA,Adult,Male
+Mr,0,33,3,NA,Florence Self (wife),Adult,Male
+Mrs,0,30,3,NA,James Self (husband),Adult,Female
+Mr,1,37,3,NA,NA,Adult,Male
+Mr,1,50,3,NA,NA,Adult,Male
+Mr,1,53,3,NA,"Mary Sharp (wife), George Sharp (son)",Adult,Male
+Nobleman,1,15,3,NA,"Samuel Sharp (father), Mary Sharp (mother)",Child,Male
+Mrs,1,32,3,NA,NA,Adult,Female
+Mrs,1,53,3,NA,"Samuel Sharp (husband), George Sharp (son)",Adult,Female
+Mr,0,30,3,NA,NA,Adult,Male
+Mr,1,26,3,NA,NA,Adult,Male
+Mr,0,26,3,NA,NA,Adult,Male
+Mr,1,19,3,NA,Archie Shkerdoff (brother),Adult,Male
+Mr,0,21,3,NA,Jacob Shkerdoff (brother),Adult,Male
+Mr,0,48,3,NA,NA,Adult,Male
+Mr,0,25,3,NA,NA,Adult,Male
+Mr,0,32,3,NA,NA,Adult,Male
+Mr,1,50,3,NA,NA,Adult,Male
+Mr,0,30,3,NA,NA,Adult,Male
+Mr,1,27,3,NA,Alice Smethurst (wife),Adult,Male
+Mrs,1,24,3,NA,Harold Smethurst (husband),Adult,Female
+Mr,1,33,3,NA,NA,Adult,Male
+Miss,0,24,3,NA,"Agnes Crosbie, Nicholas Boyle, Sarah McClellan",Adult,Female
+Mrs,0,28,3,NA,NA,Adult,Female
+Mr,0,30,3,NA,NA,Adult,Male
+Mr,1,30,3,NA,NA,Adult,Male
+Mr,1,29,3,NA,NA,Adult,Male
+Mr,0,37,3,NA,NA,Adult,Male
+Mrs,1,28,3,NA,"David Spendley (husband, waiter on ship)",Adult,Female
+Mr,0,22,3,NA,NA,Adult,Male
+Mr,0,30,3,NA,NA,Adult,Male
+Mr,0,40,3,NA,NA,Adult,Male
+Mr,0,46,3,NA,NA,Adult,Male
+Mr,1,29,3,NA,NA,Adult,Male
+Miss,0,40,3,NA,NA,Adult,Female
+Mr,1,23,3,NA,Persian party,Adult,Male
+Mr,1,28,3,NA,NA,Adult,Male
+Mr,0,31,3,NA,NA,Adult,Male
+Mr,1,23,3,NA,NA,Adult,Male
+Mr,0,26,3,NA,NA,Adult,Male
+Mr,0,27,3,NA,NA,Adult,Male
+Mr,1,26,3,NA,NA,Adult,Male
+Mr,0,17,3,NA,NA,Child,Male
+Mr,0,38,3,NA,NA,Adult,Male
+Mr,1,42,3,NA,NA,Adult,Male
+Mrs,1,19,3,NA,Harold Taylor (husband),Adult,Female
+Mr,1,21,3,NA,Lucy Taylor (wife),Adult,Male
+Mr,0,NA,3,NA,NA,Adult,Male
+Mr,0,18,3,NA,"Joseph Thompson (father), Sarah Thompson (mother)",Adult,Male
+Mr,1,40,3,NA,"Sarah Thompson (wife), Norman Thompson (son)",Adult,Male
+Mrs,0,40,3,NA,"Joseph Thompson (husband), Norman Thompson (son)",Adult,Female
+Mrs,1,25,3,NA,NA,Adult,Female
+Mr,1,28,3,NA,NA,Adult,Male
+Miss,0,NA,3,NA,NA,Adult,Female
+Mrs,0,40,3,NA,Hilda Topping (daughter),Adult,Female
+Miss,0,10,3,NA,Margaret Topping (mother),Child,Female
+Miss,1,25,3,NA,NA,Adult,Female
+Mrs,0,30,3,NA,NA,Adult,Female
+Mr,0,25,3,NA,NA,Adult,Male
+Mr,0,19,3,NA,NA,Adult,Male
+Mr,0,28,3,NA,NA,Adult,Male
+Mr,1,31,3,NA,"Agnes Veals (wife), Richard Bailey (brother-in-law)",Adult,Male
+Mrs,1,27,3,NA,"Albert Veals (husband), Richard Bailey (brother)",Adult,Female
+Miss,0,22,3,NA,NA,Adult,Female
+Mr,0,41,3,NA,NA,Adult,Male
+Mr,1,48,3,NA,Ellen Ward (wife),Adult,Male
+Mrs,1,43,3,NA,George Ward (husband),Adult,Female
+Mrs,0,22,3,NA,NA,Adult,Female
+Mrs,0,NA,3,NA,NA,Adult,Female
+Mr,0,40,3,NA,"Sarah Webb (wife), Elizabeth Webb (mother)",Adult,Male
+Mrs,0,32,3,NA,"William Webb (husband), Elizabeth Webb (mother-in-law)",Adult,Female
+Mrs,0,69,3,NA,NA,Adult,Female
+Mr,1,34,3,NA,NA,Adult,Male
+Miss,1,30,3,NA,NA,Adult,Female
+Mr,0,27,3,NA,NA,Adult,Male
+Mr,0,38,3,NA,NA,Adult,Male
+Mr,0,45,3,NA,NA,Adult,Male
+Nobleman,0,0.3,3,NA,"Annie Williams (mother), John Williams (brother), Edith Williams (sister), George Williams (brother), Ethel Williams (sister), Florence Williams (sister)",Child,Male
+Nobleman,0,6,3,NA,"Annie Williams (mother), John Williams (brother), Edith Williams (sister), Ethel Williams (sister), Florence Williams (sister), David Williams (brother)",Child,Male
+Nobleman,1,10,3,NA,"Annie Williams (mother), Edith Williams (sister), George Williams (brother), Ethel Williams (sister), Florence Williams (sister), David Williams (brother)",Child,Male
+Mrs,0,37,3,NA,"John Williams (son), Edith Williams (daughter), George Williams (son), Ethel Williams (daughter), Florence Williams (daughter), David Williams (son)",Adult,Female
+Miss,0,4,3,NA,"Annie Williams (mother), John Williams (brother), Edith Williams (sister), George Williams (brother), Ethel Williams (sister), David Williams (brother)",Child,Female
+Miss,0,5,3,NA,"Annie Williams (mother), John Williams (brother), Edith Williams (sister), George Williams (brother), Florence Williams (sister), David Williams (brother)",Child,Female
+Miss,1,9,3,NA,"Annie Williams (mother), John Williams (brother), George Williams (brother), Ethel Williams (sister), Florence Williams (sister), David Williams (brother)",Child,Female
+Nobleman,0,4,3,NA,"Emily Wilson (mother), Dorothy Wilson (sister)",Child,Male
+Mrs,0,NA,3,NA,"Frank Wilson (son), Dorothy Wilson (daughter)",Adult,Female
+Miss,0,2,3,NA,"Emily Wilson (mother), Frank Wilson (brother)",Child,Female
+Mr,1,22,3,NA,NA,Adult,Male
+Mr,0,45,3,NA,NA,Adult,Male
+Mr,0,40,3,NA,Persian party,Adult,Male
+Mr,1,32,3,NA,Persian party,Adult,Male
+Mr,0,NA,3,NA,NA,Adult,Male
+Mrs,0,27,3,NA,"Margaret Murray (housemate), Walter Murray (Margaret's son)",Adult,Female
+Mr,0,37,3,NA,NA,Adult,Male
+Mr,0,NA,3,NA,NA,Adult,Male
+Mr,0,NA,3,NA,NA,Adult,Male
+Mr,0,32,3,NA,NA,Adult,Male
