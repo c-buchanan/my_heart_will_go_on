@@ -161,6 +161,11 @@ hist(imputed_data_engineered$age, main = "Post Imputation", col = "blue")
 # Let's see how the size of one's family impacts the survival rate.
 ggplot(imputed_data_engineered, aes(x=family_size, fill = factor(survived))) + geom_bar(stat = "count", position = "dodge") + scale_x_continuous(breaks = c(1:11)) + labs(x= "family_size")
 
+'Single' -> imputed_data_engineered$family_sizeC[imputed_data_engineered$family_size == 1]
+'Small' -> imputed_data_engineered$family_sizeC[imputed_data_engineered$family_size > 1 & imputed_data_engineered$family_size < 5]
+'Large' -> imputed_data_engineered$family_sizeC[imputed_data_engineered$family_size >4]
+mosaicplot(table(imputed_data_engineered$family_sizeC,imputed_data_engineered$survived), main = "Survival by Family Size", shade = TRUE)
+
 # Let's see how age and gender impact survival rate.
 ggplot(imputed_data_engineered, aes(x = age, fill = factor(survived))) + geom_histogram()+ facet_grid(.~sex)
 
@@ -177,6 +182,16 @@ ggplot(imputed_data_engineered, aes(x = age, fill = factor(survived))) + geom_ba
 p1 <- ggplot(imputed_data_engineered,aes(x = pclass,fill = factor(survived)))+geom_bar(stat = "count", position = "stack")
 p2 <- ggplot(imputed_data_engineered,aes(x = pclass,fill = factor(survived)))+geom_bar(position = "fill")+labs(y = "Proportion")
 grid.arrange(p1,p2,ncol=2)
+
+p1 <- ggplot(imputed_data_engineered, aes(x = pclass, fill = factor(survived)))+geom_bar(stat = "count", position = "stack")
+p2 <- ggplot(imputed_data_engineered, aes(x = pclass, fill = factor(survived)))+geom_bar(position = "fill")+labs(y = "Proportion")
+grid.arrange(p1,p2,ncol=2)
+
+ggplot(imputed_data_engineered,aes(survived, fill= factor(survived))) + geom_bar(stat = "count") + facet_grid(deck ~title)
+
+coplot(age~title|survived,data = imputed_data_engineered, panel = panel.smooth,xlab = "Title",ylab = "Age",columns = 2)
+
+ggplot(imputed_data_engineered, aes(x=pclass,y=age,fill = factor(survived))) + geom_violin() 
 
 # ----------------------------------- 
 
