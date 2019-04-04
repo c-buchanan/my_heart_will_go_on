@@ -18,16 +18,11 @@ library(caret)
 library(stringr)
 library(rowr)
 library(randomForest)
-library(e1071)
-library(grid)
-library(gridExtra)
 library(mice)
-library(dplyr)
 library(pscl)
-library(knncat)
 
 # Load the CSV
-raw_data <- read.csv("titanic_passenger_manifest.csv", header = TRUE)
+raw_data <- read.csv("data/raw_data/titanic_passenger_manifest.csv", header = TRUE)
 
 # View header
 head(raw_data, n=10)
