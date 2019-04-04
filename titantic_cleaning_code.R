@@ -229,7 +229,6 @@ chisq.test(imputed_data_engineered$pclass, imputed_data_engineered$survived)
 colnames(imputed_data_engineered)
 cleaned_data <- subset(imputed_data_engineered, select = -c(name, boat, body, home.dest, family_sizeC))
 
-
 # ----------------------------------- 
 
 # LAST MINUTE ADJUSTMENTS
