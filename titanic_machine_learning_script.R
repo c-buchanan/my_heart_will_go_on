@@ -281,3 +281,64 @@ c <- confusionMatrix(table(ensemble_model, testData$survived))$overall[1]
 print(paste('Accuracy of Ensembled Model = ', c))
 
 # "Accuracy of Ensembled Model =  0.849872773536896"
+
+# ----------------------------------- 
+
+# Time to Test Ensemble Model for the Lusitania Dataset
+
+# ----------------------------------- 
+
+lusitania_data <- read.csv("cleaned_lusitania_data.csv", header = TRUE)
+
+str(lusitania_data)
+str(data)
+
+# Convert appropriate factors
+lusitania_data <- lusitania_data[,c("survived","pclass","sex","age","sibsp","parch","title","deck","family_size","child")]
+list <- c("survived","pclass","sex","title","deck","child")
+lusitania_data[list] <- lapply(lusitania_data[list],function(x) as.factor(x))
+
+list2 <- c("age")
+lusitania_data[list2] <- lapply(lusitania_data[list2],function(x) as.numeric(x))
+str(lusitania_data)
+
+# Time to fit the lusitania data to the models 
+
+glm_fit <- predict(glm_model, newdata = lusitania_data, type = 'response')
+glm_fit <- ifelse(glm_fit > 0.5,1,0)
+
+rf_fit <- predict(rf_model, newdata = lusitania_data)
+confusionMatrix(rf_fit, lusitania_data$survived)
+
+svm_fit <- predict(svm_model, newdata = lusitania_data)
+confusionMatrix(svm_fit, lusitania_data$survived)
+
+lda_fit <- predict(lda_model, newdata = lusitania_data)
+confusionMatrix(lda_fit, lusitania_data$survived)
+
+knn_fit <- predict(knn_model, newdata = lusitania_data)
+confusionMatrix(knn_fit, lusitania_data$survived)
+
+# Create the ensemble model
+
+cat('Difference ratio between ridge and conditional random forest:', sum(glm_fit!=rf_fit)/nrow(lusitania_data))
+cat('Difference ratio between ridge and conditional random forest:', sum(glm_fit!=svm_fit)/nrow(lusitania_data))
+cat('Difference ratio between ridge and conditional random forest:', sum(rf_fit!=svm_fit)/nrow(lusitania_data))
+cat('Difference ratio between ridge and conditional random forest:', sum(glm_fit!=lda_fit)/nrow(lusitania_data))
+cat('Difference ratio between ridge and conditional random forest:', sum(glm_fit!=knn_fit)/nrow(lusitania_data))
+cat('Difference ratio between ridge and conditional random forest:', sum(rf_fit!=lda_fit)/nrow(lusitania_data))
+cat('Difference ratio between ridge and conditional random forest:', sum(rf_fit!=knn_fit)/nrow(lusitania_data))
+cat('Difference ratio between ridge and conditional random forest:', sum(svm_fit!=lda_fit)/nrow(lusitania_data))
+cat('Difference ratio between ridge and conditional random forest:', sum(svm_fit!=knn_fit)/nrow(lusitania_data))
+cat('Difference ratio between ridge and conditional random forest:', sum(lda_fit!=knn_fit)/nrow(lusitania_data))
+
+# Time to test the ensemble model 
+ensemble_model <- 0.2*(as.numeric(glm_fit)-1) + 0.4*(as.numeric(rf_fit)-1) + 0.4*(as.numeric(svm_fit)-1)
+ensemble_model <- sapply(ensemble_model, round)
+confusionMatrix(table(ensemble_model, lusitania_data$survived)) 
+
+lusitania_cm <- confusionMatrix(table(ensemble_model, lusitania_data$survived))$overall[1]
+print(paste('Accuracy of Lusitania Ensembled Model = ', lusitania_cm))
+
+# [1] "Accuracy of Lusitania Ensembled Model =  0.529597474348856"
+
